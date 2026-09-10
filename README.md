@@ -135,6 +135,7 @@ Use uma cópia do jogo obtida legalmente. Este projeto não fornece o jogo.
 Instale o jogo normalmente. Antes de aplicar qualquer patch, abra o jogo pelo menos uma vez e confirme que ele funciona.
 
 ### 2. Instale a atualização 1.02
+Link da atualização: https://schooldays.us/
 
 A versão 1.02 é obrigatória para a versão deste patch PT-BR. Aplique a atualização antes da tradução.
 
