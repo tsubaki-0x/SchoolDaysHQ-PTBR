@@ -21,6 +21,8 @@
 
 ---
 
+This project does not distribute School Days HQ or any original game files. A legally obtained copy of the game is required. All extraction and patching processes use files from the user's own installation.
+
 ## Sumário
 
 - [Sobre o projeto](#sobre-o-projeto)
