@@ -1,3 +1,7 @@
+<img width="1747" height="900" alt="VAMOOO" src="https://github.com/user-attachments/assets/df3db5bf-8c02-4a0a-b9e6-b5071da154b2" />
+
+
+
 # School Days HQ — Tradução PT-BR
 
 > Tradução brasileira não oficial de **School Days HQ** para PC.
