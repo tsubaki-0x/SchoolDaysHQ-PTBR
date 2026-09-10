@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ORSData>
+    <!--
+ SCHOOL DAYS HQ TRANSLATION XML
+
+ TRADUZA SOMENTE:
+ - o texto entre <PrintText>...</PrintText>
+ - os valores sel1 e sel2 de <SetSELECT>
+ - o atributo name de <PrintText> apenas se realmente quiser traduzir
+   nomes genéricos de personagens (ex.: Passenger -> Passageira)
+
+ NÃO ALTERE:
+ - id de PrintText
+ - id de SetSELECT
+ - name de <File>
+ - quantidade de elementos
+ - ordem dos elementos
+
+ Os IDs são usados para validar a tradução antes da BUILD.
+-->
+    <File name="02-2K-A00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha's Mother">Oh, Kotonoha.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah, Mom. You're home.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha's Mother">Yes, for once, I am. What's with those clothes?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">I'm going to change right away. Oh, that's right. Where did you put our thermos?</PrintText>
+        <PrintText id="PT0005" name="Kotonoha's Mother">What thermos?</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Our vacuum bottle. We have one, right?</PrintText>
+        <PrintText id="PT0007" name="Kotonoha's Mother">It's in the back of the cupboard, on the left. What are you going to use it for?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">It looks like it's going to be a cold day tomorrow, so I thought I'd bring something warm to drink.</PrintText>
+        <PrintText id="PT0009" name="Kotonoha's Mother">That's unusual of you.</PrintText>
+        <PrintText id="PT0010" name="Kokoro">Onee-chan's been acting strange lately, reading books on sewing and digging up books on cooking and stuff.</PrintText>
+        <PrintText id="PT0011" name="Kotonoha's Mother">I see. So, Kotonoha's finally going through that phase.</PrintText>
+        <PrintText id="PT0012" name="Kokoro">'That phase'?</PrintText>
+        <PrintText id="PT0013" name="Kotonoha's Mother">Kotonoha, I'm going to teach you my recipe for making lemonade. I'm sure your boyfriend is going to love it.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">'B-boyfriend'...? I... it's not like that. I just...</PrintText>
+        <PrintText id="PT0015" name="Kotonoha's Mother">Oh, don't worry. What's more, I've got some movie tickets from a client. Would you like them?</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Um... okay.</PrintText>
+    </File>
+    <File name="02-2K-B00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Phew. It's delicious.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Really?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Lemonade really is best drunk warm, isn't it?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">It's delicious when it's cool, too, but it's a cold day today, so I thought it would be better to have it warm.</PrintText>
+        <PrintText id="PT0005" name="Makoto">I see. It really does warm you up.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Ufufu... that's good to hear. Oh, that's right.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Would you like to go and see a movie? I've got some extra tickets.</PrintText>
+        <PrintText id="PT0009" name="Makoto">A movie?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Yes, this one.</PrintText>
+        <PrintText id="PT0011" name="Makoto">A romance, huh. Oh? There's a whole heap of showtimes this week. All the way to Friday.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Yes, you're right.</PrintText>
+        <PrintText id="PT0013" name="Makoto">I guess that means we've got to go sometime this week... do you have the time? What about your student rep meetings?</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Friday is okay for me.</PrintText>
+        <PrintText id="PT0015" name="Makoto">Friday it is, then.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Really?</PrintText>
+        <PrintText id="PT0017" name="Makoto">Of course.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">Okay.</PrintText>
+    </File>
+    <File name="02-2K-B01.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Makoto-kun sure is late...</PrintText>
+    </File>
+    <File name="02-2K-B02.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Makoto-kun... he didn't come after all...</PrintText>
+    </File>
+    <File name="02-2K-C00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Here.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Thank you.</PrintText>
+        <PrintText id="PT0003" name="Makoto">It's just about to start.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Yes, you're right.</PrintText>
+        <PrintText id="PT0005" name="Aldaris">Do you truly believe that the conclave would permit such actions...?</PrintText>
+        <PrintText id="PT0006" name="Kerrigan">Wait! You've got the wrong idea! Duke is...!</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">!</PrintText>
+    </File>
+    <File name="02-2K-D00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">That was an interesting movie.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">It sure was. I expected it to be an average romance, but...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Yeah, and then it became a spy movie, and a horror movie...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">They say it's a remake of an old movie, but there can't be much of the original left in there.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Probably not. Maybe I'll try borrowing the original sometime.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Ah, in that case, why don't we watch it together?</PrintText>
+        <PrintText id="PT0007" name="Makoto">Sounds good.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Okay, I'll be sure to have everything ready at my house.</PrintText>
+        <PrintText id="PT0009" name="Makoto">We're going to watch it at your house?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Don't you want to?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Of course I do. It just makes me kind of nervous to be visiting a girl's house.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Really?</PrintText>
+        <PrintText id="PT0013" name="Makoto">I'm looking forward to it, though.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Ufufu...</PrintText>
+    </File>
+    <File name="02-2K-D01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Your house...?</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah. It's in Motehara-sakashita, so it's the next stop.</PrintText>
+        <PrintText id="PT0003" name="Makoto">I... I see. I feel kind of nervous.</PrintText>
+        <PrintText id="PT0004" name="Sekai">What are you talking about?</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2K-E00.ENG.ORS"/>
+    <File name="02-2K-E01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Now, then...</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Setsuna">Sekai.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Hmm?</PrintText>
+        <PrintText id="PT0005" name="Setsuna">Want to have lunch together?</PrintText>
+        <PrintText id="PT0006" name="Sekai">No, I...</PrintText>
+        <PrintText id="PT0007" name="Sekai">Yeah, sure. Where?</PrintText>
+        <PrintText id="PT0008" name="Setsuna">Well, Nanami is...</PrintText>
+        <PrintText id="PT0009" name="Nanami">Sekai! It's a nice day today, so let's eat outside!</PrintText>
+        <PrintText id="PT0010" name="Sekai">Haha, okay.</PrintText>
+        <PrintText id="PT0011" name="Hikari">Come on, let's go!</PrintText>
+    </File>
+    <File name="02-2K-E02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Morning.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Morning.</PrintText>
+        <PrintText id="PT0003" name="Hikari">Morning!</PrintText>
+        <PrintText id="PT0004" name="Sekai">Ah, Hikari. Morning.</PrintText>
+        <PrintText id="PT0005" name="Hikari">Hey, hey, Sekai!</PrintText>
+        <PrintText id="PT0006" name="Sekai">What?</PrintText>
+        <PrintText id="PT0007" name="Hikari">Got a minute? There's something I want to talk about.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Yamamoto will be here soon, you know.</PrintText>
+        <PrintText id="PT0009" name="Hikari">Just for a second. Come on.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Oh, okay, okay.</PrintText>
+    </File>
+    <File name="02-2K-E03.ENG.ORS">
+        <PrintText id="PT0001" name="Hikari">Listen, you know that quiet-looking girl in class 4?</PrintText>
+        <PrintText id="PT0002" name="Hikari">There was a really unpleasant atmosphere between her and Itou.</PrintText>
+        <PrintText id="PT0003" name="Hikari">Maybe Itou tried to make a move on her, and now she hates him! How nasty!</PrintText>
+        <PrintText id="PT0004" name="Hikari">They were both acting awkward, like they'd just been fighting or something. You could tell just by looking.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Makoto...</PrintText>
+    </File>
+    <File name="02-2K-E04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Nnn...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Makoto.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Hmm?</PrintText>
+        <PrintText id="PT0004" name="Sekai">Are you having lunch with Katsura-san on the roof again today?</PrintText>
+        <PrintText id="PT0005" name="Makoto">Yeah. You want to come too?</PrintText>
+        <PrintText id="PT0006" name="Sekai">Ahaha... I'll pass.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0008" name="Sekai">Are you and Katsura-san getting along?</PrintText>
+        <PrintText id="PT0009" name="Makoto">Y... yeah, we are.</PrintText>
+        <PrintText id="PT0010" name="Sekai">I see, I see.</PrintText>
+        <PrintText id="PT0011" name="Makoto">What's with you? Sheesh.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Ahaha... I was worried that you might have tried to make a move on her and gotten on her bad side.</PrintText>
+        <PrintText id="PT0013" name="Makoto">!</PrintText>
+        <PrintText id="PT0014" name="Sekai">Just kidding. You'd never...</PrintText>
+        <PrintText id="PT0015" name="Makoto">Shut up!</PrintText>
+        <PrintText id="PT0016" name="Sekai">M... Makoto?</PrintText>
+        <PrintText id="PT0017" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0018" name="Sekai">L... let's go outside for a minute.</PrintText>
+    </File>
+    <File name="02-2K-E05.ENG.ORS"/>
+    <File name="02-2K-E06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Sekai.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0003" name="Makoto">...Thanks.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0005" name="Makoto">I'm going to do my best.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Uh-huh.</PrintText>
+    </File>
+    <File name="02-2K-E07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">?</PrintText>
+    </File>
+    <File name="02-2K-E08.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Ah!</PrintText>
+    </File>
+    <File name="02-2K-E09.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...</PrintText>
+    </File>
+    <File name="02-2K-E10.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Makoto.</PrintText>
+        <PrintText id="PT0002" name="Makoto">What?</PrintText>
+        <PrintText id="PT0003" name="Sekai">...</PrintText>
+        <PrintText id="PT0004" name="Makoto">What is it? Why are you staring at me?</PrintText>
+        <PrintText id="PT0005" name="Sekai">...Feeling better?</PrintText>
+        <PrintText id="PT0006" name="Makoto">I'm fine.</PrintText>
+        <PrintText id="PT0007" name="Sekai">I see.</PrintText>
+        <PrintText id="PT0008" name="Makoto">...Now that you've cheered me up.</PrintText>
+        <PrintText id="PT0009" name="Sekai">Eh?</PrintText>
+        <PrintText id="PT0010" name="Makoto">I appreciate it... thanks.</PrintText>
+        <PrintText id="PT0011" name="Sekai">Ah... yeah.</PrintText>
+        <PrintText id="PT0012" name="Makoto">Well, see you tomorrow.</PrintText>
+        <PrintText id="PT0013" name="Sekai">Bye.</PrintText>
+    </File>
+    <File name="02-2K-F00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Ehehe... I have some black tea today.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah... that smells nice.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">It's a souvenir from Mom's business trip to Shanghai.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Wow... looks expensive.</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">Not really.</PrintText>
+        <PrintText id="PT0006" name="Makoto">What kind of black tea is it?</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">It's called, 'Keemun'.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Keemun... ah, it's delicious.</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Ufufu...</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">It's always just the two of us up here on the roof, isn't it?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Yeah. That's because this place is normally off-limits to students.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Eh?! Then we're...?</PrintText>
+        <PrintText id="PT0013" name="Makoto">Well, yeah... but Sekai went and got permission.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Saionji-san...?</PrintText>
+        <PrintText id="PT0015" name="Makoto">Yeah. Sekai got permission to use the roof by saying that</PrintText>
+        <PrintText id="PT0016" name="Makoto">she wanted to revive the old astronomy club and having her friends sign up as fake club members.</PrintText>
+        <PrintText id="PT0017" name="Kotonoha">I see.</PrintText>
+        <PrintText id="PT0018" name="Makoto">That's why if Sekai stops hanging around here, we should probably sign up as astronomy club members too.</PrintText>
+        <PrintText id="PT0019" name="Kotonoha">Members of the astronomy club...</PrintText>
+        <PrintText id="PT0020" name="Makoto">Don't like the idea?</PrintText>
+        <PrintText id="PT0021" name="Kotonoha">No, I like the stars. It'd be nice if we could really stargaze instead of being astronomy club members in name only.</PrintText>
+        <PrintText id="PT0022" name="Makoto">Well, I hear that with the club dissolved, there's no equipment anymore.</PrintText>
+        <PrintText id="PT0023" name="Kotonoha">Yes, of course.</PrintText>
+        <PrintText id="PT0024" name="Makoto">If you want to see the stars, though, there's a planetarium at Sakakino Hills.</PrintText>
+        <PrintText id="PT0025" name="Kotonoha">A planetarium...</PrintText>
+        <PrintText id="PT0026" name="Makoto">Let's go there sometime.</PrintText>
+        <PrintText id="PT0027" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0028" name="Kotonoha">It's getting a little cold, isn't it?</PrintText>
+        <PrintText id="PT0029" name="Kotonoha">Eh?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Now you won't be cold'" sel2="'Stay still'"/>
+    </File>
+    <File name="02-2K-F01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Now you won't be cold.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah... uh... um...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Kotonoha.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Y-yes...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Kotonoha, you...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'You smell nice'" sel2="'You're so soft'"/>
+    </File>
+    <File name="02-2K-F02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Stay still.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">O... okay.</PrintText>
+        <PrintText id="PT0003" name="Makoto">...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Uh... um...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Kotonoha, you...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Yes...</PrintText>
+        <PrintText id="PT0007" name="Makoto">...</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Um... um... Makoto-kun?</PrintText>
+        <PrintText id="PT0009" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">What about me...?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Kotonoha, you...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'You smell nice'" sel2="'You're so soft'"/>
+    </File>
+    <File name="02-2K-F03.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Uh... um...!</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Sorry'" sel2="'Why?'"/>
+    </File>
+    <File name="02-2K-F04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">You smell nice.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">T... thanks...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Y... yes...?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I love you'" sel2="null"/>
+    </File>
+    <File name="02-2K-F05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">You're so soft.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">No!</PrintText>
+        <PrintText id="PT0003" name="Makoto">Ahh!</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Sorry'" sel2="'Why?'"/>
+    </File>
+    <File name="02-2K-F06.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">That's... enough.</PrintText>
+        <PrintText id="PT0002" name="Makoto">No, I've still... ah!</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Haah... haah...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Sorry'" sel2="'Why?'"/>
+    </File>
+    <File name="02-2K-F07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Sorry.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">It's okay...</PrintText>
+    </File>
+    <File name="02-2K-F08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Why?</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...This isn't right.</PrintText>
+        <PrintText id="PT0003" name="Makoto">That's not true.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">It's too soon.</PrintText>
+        <PrintText id="PT0005" name="Makoto">I said that's not true.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0007" name="Makoto">...All right, fine.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">I'm sorry.</PrintText>
+    </File>
+    <File name="02-2K-F09.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">I'm sorry. It's just that...</PrintText>
+        <PrintText id="PT0003" name="Makoto">It's okay...</PrintText>
+    </File>
+    <File name="02-2K-F10.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I love you.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Me... too.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Uh-huh...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Makoto-kun.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">C... can we... stop now?</PrintText>
+        <PrintText id="PT0007" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">This is kind of...</PrintText>
+        <PrintText id="PT0009" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0010" name="Makoto">Okay...</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">...</PrintText>
+    </File>
+    <File name="02-2K-G00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">T... that's right. We'd better be heading back to class.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Eh...?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'We've still got time'" sel2="'Yes'"/>
+    </File>
+    <File name="02-2K-G01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">We've still got time.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">I... I just remembered something I have to do...</PrintText>
+        <PrintText id="PT0003" name="Makoto">I see.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Well, I'll be going on ahead.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Y... yeah.</PrintText>
+    </File>
+    <File name="02-2K-G02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Yeah, you're right.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Come on, let's pack up and head back to class.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Okay...</PrintText>
+    </File>
+    <File name="02-2K-G03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">C-come on, we'd better pack up.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Y... yeah...</PrintText>
+    </File>
+    <File name="02-2K-H00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">"From: Katsura Kotonoha\nSub: I'm sorry\nSorry about what happened earlier."</PrintText>
+        <PrintText id="PT0002" name="Makoto">What should I do?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Should I reply...?</PrintText>
+        <PrintText id="PT0004" name="Makoto">But what should I say...?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Don't worry about it'" sel2="'I'd like to hold you again'"/>
+    </File>
+    <File name="02-2K-H02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"From: Itou Makoto\nSub: Re: I'm sorry\nI'd sure like to hold you again."</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Haah...</PrintText>
+    </File>
+    <File name="02-2K-H03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Well, never mind...</PrintText>
+    </File>
+    <File name="02-2K-H04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"From: Itou Makoto\nSub: Re: I'm sorry\nDon't worry about it."</PrintText>
+    </File>
+    <File name="02-2K-H05.ENG.ORS"/>
+    <File name="02-2K-H06.ENG.ORS">
+        <PrintText id="PT0001" name="Setsuna">Sekai! Let's stop by Pure Burger on the way home.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ah... okay.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Going home?</PrintText>
+        <PrintText id="PT0004" name="Makoto">See you later.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Yep. Bye.</PrintText>
+        <PrintText id="PT0006" name="Setsuna">Let's go.</PrintText>
+        <PrintText id="PT0007" name="Sekai">...Yeah.</PrintText>
+    </File>
+    <File name="02-2K-I00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Makoto-kun.</PrintText>
+        <PrintText id="PT0003" name="Makoto">...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Let's go home together.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Yeah.</PrintText>
+    </File>
+    <File name="02-2K-I01.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Huh? Makoto, weren't you going to see Katsura-san... ah.</PrintText>
+        <PrintText id="PT0002" name="Makoto">...</PrintText>
+        <PrintText id="PT0003" name="Sekai">How'd you mess up?</PrintText>
+        <PrintText id="PT0004" name="Makoto">I did exactly what you told me.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Looks to me like you tried to force her to do something against her will.</PrintText>
+        <PrintText id="PT0006" name="Makoto">...</PrintText>
+        <PrintText id="PT0007" name="Sekai">I knew it.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Uuu...</PrintText>
+        <PrintText id="PT0009" name="Sekai">Haah... fine, I guess the least I could do is hear you out.</PrintText>
+    </File>
+    <File name="02-2K-I02.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">I saw your e-mail.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">This is...</PrintText>
+        <PrintText id="PT0006" name="Makoto">I thought really hard about it, and I...</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0008" name="Makoto">I think it's best if we give each other some space.</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">But...</PrintText>
+        <PrintText id="PT0010" name="Makoto">At this rate, I'll just end up hurting you by doing things you don't want me to do, and you...</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">That's... not true. With a little time, I'm sure we'd...</PrintText>
+        <PrintText id="PT0012" name="Makoto">I thought it was a matter of time, too... but I think we need some room as well as time to really understand each other.</PrintText>
+        <PrintText id="PT0013" name="Kotonoha">So...</PrintText>
+        <PrintText id="PT0014" name="Makoto">Let's not see each other for a while.</PrintText>
+        <PrintText id="PT0015" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0016" name="Makoto">...Goodbye.</PrintText>
+    </File>
+    <File name="02-2K-J00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">It sure is crowded.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Yeah, all the schools along this line finish at the same time.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Yes...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Don't you usually get on at this time?</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">No. On the days when I don't have student rep meetings, I spend a little time in the library and get on when there are fewer people.</PrintText>
+        <PrintText id="PT0006" name="Makoto">I see.</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Yes...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Why did you wait today?'" sel2="'You should have done that today'"/>
+    </File>
+    <File name="02-2K-J01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Why did you wait today?</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...I wanted to go home with you.</PrintText>
+        <PrintText id="PT0003" name="Makoto">I see.</PrintText>
+    </File>
+    <File name="02-2K-J02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">You should have done that today, too.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">But...</PrintText>
+        <PrintText id="PT0003" name="Makoto">But?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">No... it's nothing.</PrintText>
+    </File>
+    <File name="02-2K-J03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Ah...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I should move my hand'" sel2="'If it's just for a little while...'"/>
+    </File>
+    <File name="02-2K-J04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I've got to get out of the way...</PrintText>
+        <PrintText id="PT0002" name="Female Passenger">Ahem!</PrintText>
+        <PrintText id="PT0003" name="Makoto">S-sorry!</PrintText>
+        <PrintText id="PT0004" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">M... Makoto-kun...</PrintText>
+        <PrintText id="PT0006" name="Makoto">I-I'm sorry!</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Nn... I... I guess it can't be helped... since it's so crowded.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Yeah...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'If it's just for a little while...'" sel2="null"/>
+    </File>
+    <File name="02-2K-J05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Just a little... should be okay.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">!</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Just a little more...'" sel2="'I should stop'"/>
+    </File>
+    <File name="02-2K-J06.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Well, see you tomorrow.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0003" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2K-J07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Just a little more...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Nn...! M-Makoto-kun!</PrintText>
+        <PrintText id="PT0003" name="Makoto">...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Hey... Makoto-kun!</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Don't...</PrintText>
+        <PrintText id="PT0007" name="Makoto">...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I should stop'" sel2="'Keep going'"/>
+    </File>
+    <File name="02-2K-J08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I'd better stop now...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Makoto-kun... stop it...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Sorry.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Okay...</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2K-J09.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">They were so big...</PrintText>
+        <PrintText id="PT0003" name="Makoto">And...</PrintText>
+        <PrintText id="PT0004" name="Makoto">...so soft.</PrintText>
+    </File>
+    <File name="02-2K-J10.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">More...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Stop it...</PrintText>
+        <PrintText id="PT0003" name="Makoto">...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Please...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">Nn... mmn...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Nn... haah... haah...</PrintText>
+        <PrintText id="PT0007" name="Makoto">...</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Hyah!</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">No!</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Nn...! Fwah...</PrintText>
+        <PrintText id="PT0011" name="Makoto">...</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">No... don't...</PrintText>
+        <PrintText id="PT0013" name="Makoto">Haah... haah...</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Nn... mnn... mmn...! Haah...</PrintText>
+    </File>
+    <File name="02-2K-K00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Kotonoha...</PrintText>
+    </File>
+    <File name="02-2K-K01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Maybe I shouldn't have done that today...</PrintText>
+    </File>
+    <File name="02-2K-K02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Haah... haah...</PrintText>
+    </File>
+    <File name="02-2K-K03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Tsk.</PrintText>
+    </File>
+    <File name="02-2K-K04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">What's wrong? Why are you calling so late?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Ah, is now a bad time?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">No, it's just that you usually send an e-mail.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Yeah, but... I kind of wanted to apologize.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0007" name="Makoto">I did some things today that you weren't comfortable with.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">That's...</PrintText>
+        <PrintText id="PT0009" name="Makoto">I regret that now.</PrintText>
+        <PrintText id="PT0010" name="Makoto">What can I say...? I...</PrintText>
+        <PrintText id="PT0011" name="Sekai">Y... yes.</PrintText>
+        <PrintText id="PT0012" name="Makoto">I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I want to touch you'" sel2="'That's why I'll stay away from you'"/>
+    </File>
+    <File name="02-2K-K05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I want to touch you.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Whenever I look at you, I feel all excited... like I can't stop myself from embracing you.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0005" name="Makoto">...Is this what it feels like to love someone?</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">No.</PrintText>
+        <PrintText id="PT0007" name="Makoto">No?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">That's a bad feeling. It's not the same as love.</PrintText>
+        <PrintText id="PT0009" name="Makoto">A... bad feeling?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0011" name="Makoto">...</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">I... like you, but... I don't feel the same way.</PrintText>
+        <PrintText id="PT0013" name="Makoto">I see...</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">I'm sorry...</PrintText>
+        <PrintText id="PT0015" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0016" name="Makoto">Tsk.</PrintText>
+    </File>
+    <File name="02-2K-K06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">That's why I'll stay away from you.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">It seems that all I can do is make you feel awful, so...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">W-wait...</PrintText>
+        <PrintText id="PT0005" name="Makoto">It's okay. I know it's hard for you to endure, too.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">I'll endure it. I can do that.</PrintText>
+        <PrintText id="PT0007" name="Makoto">But...</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">I understand how you feel.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Really...?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">I understand... so I can endure it.</PrintText>
+        <PrintText id="PT0011" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">So please, don't say that you'll stay away from me.</PrintText>
+        <PrintText id="PT0013" name="Makoto">...</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Because I want us to be together too.</PrintText>
+        <PrintText id="PT0015" name="Makoto">Thanks.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">That's okay. I should be the one apologizing to you.</PrintText>
+        <PrintText id="PT0017" name="Makoto">You've got nothing to be sorry for.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">Yes... but when I think about how I've made you suffer, it hurts.</PrintText>
+        <PrintText id="PT0019" name="Makoto">In time, I'm sure we'll find the distance that's right for us and build a good relationship on that.</PrintText>
+        <PrintText id="PT0020" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0021" name="Makoto">Well, I'd better hang up.</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">Ah... you know...</PrintText>
+        <PrintText id="PT0023" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">When you hugged me... I was a little nervous, and I kind of felt awful, but...</PrintText>
+        <PrintText id="PT0025" name="Makoto">Uh-huh...</PrintText>
+        <PrintText id="PT0026" name="Kotonoha">...I was a little happy, too.</PrintText>
+        <PrintText id="PT0027" name="Makoto">Really...?</PrintText>
+        <PrintText id="PT0028" name="Kotonoha">Yes... that's part of how I really feel, too... That's why I'd like a little more time.</PrintText>
+        <PrintText id="PT0029" name="Makoto">Yes, you're right. Let's take things one step at a time.</PrintText>
+        <PrintText id="PT0030" name="Kotonoha">Yes, one step at a time...</PrintText>
+        <PrintText id="PT0031" name="Makoto">Haha...</PrintText>
+        <PrintText id="PT0032" name="Kotonoha">...I'm glad you called.</PrintText>
+        <PrintText id="PT0033" name="Makoto">I'm glad I was able to speak to you, too. Good night.</PrintText>
+        <PrintText id="PT0034" name="Kotonoha">Good night.</PrintText>
+    </File>
+    <File name="02-2K-K07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...Makoto-kun?</PrintText>
+        <PrintText id="PT0003" name="Makoto">...I'm sorry. Good night.</PrintText>
+    </File>
+    <File name="02-2K-K08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Haah... haah... haah...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Haah... haah... haah...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Haah... haah... haah...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Kotonoha...! Haah.. haah... haah...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Haah... haah... phew...</PrintText>
+        <PrintText id="PT0006" name="Makoto">Haah... haah... haah...</PrintText>
+        <PrintText id="PT0007" name="Makoto">Haah...</PrintText>
+    </File>
+    <File name="02-2K-L00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Yes, Makoto-kun?</PrintText>
+    </File>
+    <File name="02-2K-L01.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">He... touched me...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">It was awful...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">But...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Boys... want to touch, don't they...?</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Nn...</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Mmn...! Nn...</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Haah!</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">W-what am I doing?</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">Ooh... sheesh! This is so embarrassing...</PrintText>
+    </File>
+    <File name="02-2K-L02.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">This is no good... I'm making Makoto-kun feel bad again.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">I don't want to be touched... but I promised to consider his feelings.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">...At least, that's what I wanted to do.</PrintText>
+    </File>
+    <File name="02-2K-L03.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Yes... that's right... he wants to touch me, doesn't he...?</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">I've got to be strong...</PrintText>
+    </File>
+    <File name="02-2K-M00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+    </File>
+    <File name="02-2K-M02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">M-morning...</PrintText>
+    </File>
+    <File name="02-2K-M03.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...Good morning.</PrintText>
+        <PrintText id="PT0002" name="Makoto">S-sorry about yesterday.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Yes...</PrintText>
+    </File>
+    <File name="02-2K-M04.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Good morning.</PrintText>
+        <PrintText id="PT0002" name="Makoto">N-nice day, isn't it?</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Haha...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Wah!</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Kyah!</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Ah...</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">I-I'm sorry, I didn't mean to...</PrintText>
+        <PrintText id="PT0009" name="Makoto">It's okay.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">I'm sorry...</PrintText>
+        <PrintText id="PT0011" name="Makoto">It's fine...</PrintText>
+    </File>
+    <File name="02-2K-M05.ENG.ORS">
+        <PrintText id="PT0001" name="Hikari">...</PrintText>
+    </File>
+    <File name="02-2K-N00.ENG.ORS">
+        <PrintText id="PT0001" name="Hikari">You know, I overslept a little today, so that's why I'm late...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah, and...?</PrintText>
+        <PrintText id="PT0003" name="Hikari">Well, you know, I got onto a different train than the one I usually take, and I saw Itou.</PrintText>
+        <PrintText id="PT0004" name="Sekai">...Uh-huh.</PrintText>
+        <PrintText id="PT0005" name="Hikari">It felt like there was something going on between Itou and that girl from the other class.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0007" name="Hikari">You know, that quiet-looking girl from class 4.</PrintText>
+        <PrintText id="PT0008" name="Sekai">...Yeah, I know.</PrintText>
+        <PrintText id="PT0009" name="Hikari">He and that girl, well, they were looking really awkward.</PrintText>
+        <PrintText id="PT0010" name="Sekai">I see.</PrintText>
+        <PrintText id="PT0011" name="Hikari">Maybe Itou tried to make a move on her, and now she hates him! How nasty!</PrintText>
+        <PrintText id="PT0012" name="Sekai">Somehow, I don't think so...</PrintText>
+        <PrintText id="PT0013" name="Hikari">They were both acting awkward, like they'd just been fighting or something. You could tell just by looking.</PrintText>
+        <PrintText id="PT0014" name="Sekai">...</PrintText>
+        <PrintText id="PT0015" name="Hikari">Your boyfriend's getting up to something funny behind your back. You ought to just break up with him.</PrintText>
+        <PrintText id="PT0016" name="Sekai">I told you, he's not my...</PrintText>
+        <PrintText id="PT0017" name="Yamamoto">Hey, it's time for homeroom!</PrintText>
+        <PrintText id="PT0018" name="Hikari">Crap, Yamamoto.</PrintText>
+        <PrintText id="PT0019" name="Sekai">Geh.</PrintText>
+        <PrintText id="PT0020" name="Yamamoto">Hurry up and take your seats.</PrintText>
+        <PrintText id="PT0021" name="Hikari">Okaaay.</PrintText>
+    </File>
+    <File name="02-2K-N01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Kotonoha.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah... Makoto-kun.</PrintText>
+        <PrintText id="PT0003" name="Makoto">I want to talk to you about something.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Eh? But I've got a student rep meeting today...</PrintText>
+        <PrintText id="PT0005" name="Makoto">It'll only take a minute.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Ah...</PrintText>
+    </File>
+    <File name="02-2K-O00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Sorry.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Things didn't go well?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Well... not really, no.</PrintText>
+        <PrintText id="PT0004" name="Sekai">If you like, you can tell me about it... ah, and if you don't think I can help, I can go and find someone who can!</PrintText>
+        <PrintText id="PT0005" name="Makoto">...Yeah.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0007" name="Makoto">Am I... weird?</PrintText>
+        <PrintText id="PT0008" name="Sekai">Weird?</PrintText>
+        <PrintText id="PT0009" name="Makoto">I love Kotonoha.</PrintText>
+        <PrintText id="PT0010" name="Sekai">There's nothing weird about that.</PrintText>
+        <PrintText id="PT0011" name="Makoto">It's weird... whenever I think about her, I feel like I want to embrace her and...</PrintText>
+        <PrintText id="PT0012" name="Makoto">and even do those perverted things you keep talking about.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Just yesterday, I couldn't help myself. I forced myself on her, and...</PrintText>
+        <PrintText id="PT0014" name="Sekai">So that's why Katsura-san is...</PrintText>
+        <PrintText id="PT0015" name="Makoto">I'm hopeless, aren't I...?</PrintText>
+        <PrintText id="PT0016" name="Sekai">But... it's normal to want to do those things with the person you love, right?</PrintText>
+        <PrintText id="PT0017" name="Makoto">You think so...?</PrintText>
+        <PrintText id="PT0018" name="Sekai">You probably just went about it the wrong way.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Way...?</PrintText>
+        <PrintText id="PT0020" name="Sekai">Anyone would be afraid if you just suddenly threw yourself at them.</PrintText>
+        <PrintText id="PT0021" name="Makoto">I didn't 'throw' myself at her.</PrintText>
+        <PrintText id="PT0022" name="Sekai">Reaaaally?</PrintText>
+        <PrintText id="PT0023" name="Makoto">R-really, I didn't.</PrintText>
+        <PrintText id="PT0024" name="Sekai">Really? For real?</PrintText>
+        <PrintText id="PT0025" name="Makoto">I... guess I was a little forceful.</PrintText>
+        <PrintText id="PT0026" name="Sekai">See?</PrintText>
+        <PrintText id="PT0027" name="Makoto">Uuu...</PrintText>
+        <PrintText id="PT0028" name="Makoto">I just don't know how to take a girl's feelings into consideration like that...</PrintText>
+        <PrintText id="PT0029" name="Sekai">Hmm...</PrintText>
+        <PrintText id="PT0030" name="Makoto">Haah...</PrintText>
+        <PrintText id="PT0031" name="Makoto">Hey, what about you, Sekai?</PrintText>
+        <PrintText id="PT0032" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0033" name="Makoto">You're technically a girl, right? You should know.</PrintText>
+        <PrintText id="PT0034" name="Sekai">'Technically'... that's just mean. Well, I guess you'd normally kiss her...</PrintText>
+        <PrintText id="PT0035" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0036" name="Sekai">...</PrintText>
+        <PrintText id="PT0037" name="Makoto">What is it? Go on.</PrintText>
+        <PrintText id="PT0038" name="Sekai">Listen, why don't you practice on me?</PrintText>
+        <PrintText id="PT0039" name="Makoto">Ehh?! I can't do that.</PrintText>
+        <PrintText id="PT0040" name="Sekai">It'll just be pretend. You can practice how to approach a girl gently.</PrintText>
+        <PrintText id="PT0041" name="Makoto">I see... practice, huh...</PrintText>
+        <PrintText id="PT0042" name="Sekai">Rather than just talking about it, I think you'll pick it up better by actually practicing.</PrintText>
+        <PrintText id="PT0043" name="Makoto">You're right.</PrintText>
+        <PrintText id="PT0044" name="Sekai">Ah, but listen, this is just practice, okay? If you really kiss me, I'll kill you.</PrintText>
+        <PrintText id="PT0045" name="Makoto">Like I would!</PrintText>
+        <PrintText id="PT0046" name="Sekai">Good.</PrintText>
+        <PrintText id="PT0047" name="Makoto">Still... actual practice, huh...</PrintText>
+        <PrintText id="PT0048" name="Sekai">Okay, ready?</PrintText>
+        <PrintText id="PT0049" name="Makoto">Hmm... well...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'In that case...'" sel2="'This isn't right'"/>
+    </File>
+    <File name="02-2K-O01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">In that case...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0003" name="Makoto">W... what should I do first?</PrintText>
+        <PrintText id="PT0004" name="Sekai">Let's see... okay. Yeah. Kiss me...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Kiss...</PrintText>
+        <PrintText id="PT0006" name="Sekai">Wah! Hey! We're just pretending.</PrintText>
+        <PrintText id="PT0007" name="Sekai">Okay, next, gently hug me.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Oh... oh, yeah.</PrintText>
+        <PrintText id="PT0009" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0010" name="Makoto">Ah! Was that too quick?</PrintText>
+        <PrintText id="PT0011" name="Sekai">N-no, that was fine.</PrintText>
+        <PrintText id="PT0012" name="Makoto">Okay, what's next?</PrintText>
+        <PrintText id="PT0013" name="Sekai">Let's see... try whispering, 'I love you,' or something into my ear.</PrintText>
+        <PrintText id="PT0014" name="Makoto">Sekai... I love you.</PrintText>
+        <PrintText id="PT0015" name="Sekai">...</PrintText>
+        <PrintText id="PT0016" name="Makoto">...Sekai?</PrintText>
+        <PrintText id="PT0017" name="Sekai">T-that's no good. I'm pretending to be Katsura-san, so you have to say, 'Kotonoha'.</PrintText>
+        <PrintText id="PT0018" name="Makoto">Well, I mean, it's you who's right here in front of me. It's hard to say, 'Kotonoha'.</PrintText>
+        <PrintText id="PT0019" name="Sekai">Mmm... I guess it can't be helped, then.</PrintText>
+        <PrintText id="PT0020" name="Makoto">So, what's next?</PrintText>
+        <PrintText id="PT0021" name="Sekai">My chest... I guess.</PrintText>
+        <PrintText id="PT0022" name="Makoto">You guess? That doesn't sound too reliable.</PrintText>
+        <PrintText id="PT0023" name="Sekai">My chest! Try gently rubbing my chest...</PrintText>
+        <PrintText id="PT0024" name="Makoto">Chest...</PrintText>
+        <PrintText id="PT0025" name="Sekai">Uh...</PrintText>
+        <PrintText id="PT0026" name="Makoto">I probably shouldn't touch you, should I?</PrintText>
+        <PrintText id="PT0027" name="Sekai">I... it's okay if it's just through my clothes.</PrintText>
+        <PrintText id="PT0028" name="Makoto">A-are you serious?!</PrintText>
+        <PrintText id="PT0029" name="Sekai">Come on, hurry up.</PrintText>
+        <PrintText id="PT0030" name="Makoto">O-okay.</PrintText>
+        <PrintText id="PT0031" name="Sekai">Nn...</PrintText>
+        <PrintText id="PT0032" name="Makoto">Is this right...?</PrintText>
+        <PrintText id="PT0033" name="Sekai">You can do it a little harder...</PrintText>
+        <PrintText id="PT0034" name="Makoto">Got it.</PrintText>
+        <PrintText id="PT0035" name="Sekai">Nn... mmn... haah...</PrintText>
+        <PrintText id="PT0036" name="Makoto">Sekai... you're kind of...</PrintText>
+    </File>
+    <File name="02-2K-O02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">This isn't right after all.</PrintText>
+        <PrintText id="PT0002" name="Sekai">...Yeah, you're right.</PrintText>
+        <PrintText id="PT0003" name="Makoto">I like you, Sekai, but Kotonoha...</PrintText>
+        <PrintText id="PT0004" name="Sekai">Ahaha... well, I thought it was a nice idea. Yeah, just forget about it!</PrintText>
+        <PrintText id="PT0005" name="Makoto">Y... yeah.</PrintText>
+    </File>
+    <File name="02-2K-O03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">J-just kidding!</PrintText>
+        <PrintText id="PT0003" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0004" name="Sekai">Oh, come on. What are you all flustered for? I'm joking, of course.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Ah... haha. Really? I seriously thought that...</PrintText>
+        <PrintText id="PT0006" name="Sekai">Of course! Sheesh!</PrintText>
+        <PrintText id="PT0007" name="Makoto">Yeah, you're right. Haha...</PrintText>
+        <PrintText id="PT0008" name="Sekai">Ahaha... ha...</PrintText>
+    </File>
+    <File name="02-2K-O04.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Haah... haah...! Ahh...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Mnn... nn...</PrintText>
+        <PrintText id="PT0003" name="Sekai">Ahh... ah... haah... haah...</PrintText>
+        <PrintText id="PT0004" name="Sekai">Haah... haah...! Haah... ah... ahh...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0006" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0007" name="Sekai">Ah... no...</PrintText>
+        <PrintText id="PT0008" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0009" name="Sekai">Okay, practice is over. It's the end of lunch. We've got to get back to class.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Y-yeah...</PrintText>
+        <PrintText id="PT0011" name="Sekai">Let's go.</PrintText>
+        <PrintText id="PT0012" name="Makoto">...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I still don't really understand'" sel2="'I've got it'"/>
+    </File>
+    <File name="02-2K-O05.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Wow... it sure is quiet here on the outskirts of school.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Yeah. There're just a bunch of storerooms here, so people don't come often.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">I see.</PrintText>
+        <PrintText id="PT0004" name="Makoto">...</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">Come to think of it, did you have something to do at lunchtime? You didn't show up, so I ate lunch all by myself... ufufu...</PrintText>
+        <PrintText id="PT0006" name="Makoto">...</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Um... Makoto-kun?</PrintText>
+        <PrintText id="PT0008" name="Makoto">Kotonoha...</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Ah... um...! Makoto-kun?!</PrintText>
+        <PrintText id="PT0010" name="Makoto">Kotonoha...! I... I love you!</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">No...! W-wait a second!</PrintText>
+        <PrintText id="PT0012" name="Makoto">Um... let's see... next comes...</PrintText>
+        <PrintText id="PT0013" name="Kotonoha">Hiii!</PrintText>
+        <PrintText id="PT0014" name="Makoto">H... her chest...!</PrintText>
+        <PrintText id="PT0015" name="Kotonoha">Kyaaaah!</PrintText>
+    </File>
+    <File name="02-2K-O06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I still don't really understand.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">...We're still only halfway through, right?</PrintText>
+        <PrintText id="PT0004" name="Sekai">...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Teach me the rest.</PrintText>
+        <PrintText id="PT0006" name="Sekai">'The rest,' you say... well, that's going to be a problem.</PrintText>
+        <PrintText id="PT0007" name="Makoto">It's a problem for me, too. You can't call it real practice if we've only done half... right?</PrintText>
+        <PrintText id="PT0008" name="Sekai">You... think so?</PrintText>
+        <PrintText id="PT0009" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0010" name="Sekai">What should I do...?</PrintText>
+        <PrintText id="PT0011" name="Makoto">...</PrintText>
+        <PrintText id="PT0012" name="Sekai">Okay, after class, then.</PrintText>
+        <PrintText id="PT0013" name="Makoto">O... okay.</PrintText>
+        <PrintText id="PT0014" name="Sekai">Let's do the rest... at my house.</PrintText>
+    </File>
+    <File name="02-2K-O07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I've got it.</PrintText>
+    </File>
+    <File name="02-2K-O08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Come on!</PrintText>
+        <PrintText id="PT0003" name="Makoto">...Yeah.</PrintText>
+    </File>
+    <File name="02-2K-O09.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Okay, I'm going back to class now.</PrintText>
+        <PrintText id="PT0002" name="Makoto">...Sorry for shouting at you earlier.</PrintText>
+        <PrintText id="PT0003" name="Sekai">It's fine. See you later.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0005" name="Makoto">...Thanks.</PrintText>
+    </File>
+    <File name="02-2K-OP1.ENG.ORS"/>
+    <File name="02-2K-P00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...I see.</PrintText>
+        <PrintText id="PT0002" name="Makoto">...</PrintText>
+        <PrintText id="PT0003" name="Sekai">That's definitely your fault.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Uuu...</PrintText>
+        <PrintText id="PT0005" name="Sekai">Looks like our practice didn't teach you a thing.</PrintText>
+        <PrintText id="PT0006" name="Makoto">Guh...</PrintText>
+        <PrintText id="PT0007" name="Sekai">It's not just Katsura-san. Anyone would panic in a situation like that.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Uguh...</PrintText>
+        <PrintText id="PT0009" name="Sekai">Haah... looks like the practice didn't work out after all.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Yeah... and after you put your body on the line to teach me, too. I really am hopeless.</PrintText>
+        <PrintText id="PT0011" name="Sekai">Oh?</PrintText>
+        <PrintText id="PT0012" name="Makoto">I'm hating myself more and more...</PrintText>
+        <PrintText id="PT0013" name="Sekai">Is that so?</PrintText>
+        <PrintText id="PT0014" name="Makoto">I can't see Kotonoha like this... I don't even want to get on the train to school tomorrow.</PrintText>
+        <PrintText id="PT0015" name="Sekai">Haah... there's no helping you, is there? You're such a wimp.</PrintText>
+        <PrintText id="PT0016" name="Makoto">Yeah, but...</PrintText>
+        <PrintText id="PT0017" name="Sekai">You can't give up just because you've failed once or twice.</PrintText>
+        <PrintText id="PT0018" name="Makoto">But...</PrintText>
+        <PrintText id="PT0019" name="Sekai">If you fail today, then just practice some more and try again.</PrintText>
+        <PrintText id="PT0020" name="Makoto">Try again...</PrintText>
+        <PrintText id="PT0021" name="Sekai">After a lot of training, that is.</PrintText>
+        <PrintText id="PT0022" name="Makoto">...It's hopeless.</PrintText>
+        <PrintText id="PT0023" name="Sekai">It's not hopeless!</PrintText>
+        <PrintText id="PT0024" name="Makoto">Uuu...</PrintText>
+        <PrintText id="PT0025" name="Sekai">If you really want to make it happen, it will happen! For sure!</PrintText>
+        <PrintText id="PT0026" name="Makoto">R-really...?</PrintText>
+        <PrintText id="PT0027" name="Sekai">Yeah. I guarantee it.</PrintText>
+        <PrintText id="PT0028" name="Makoto">I see... so it'll happen after all?</PrintText>
+        <PrintText id="PT0029" name="Sekai">Well, that depends on how hard you try.</PrintText>
+        <PrintText id="PT0030" name="Makoto">Uuuh... it feels hopeless after all...</PrintText>
+        <PrintText id="PT0031" name="Sekai">Haah... stop moping.</PrintText>
+        <PrintText id="PT0032" name="Makoto">But...</PrintText>
+        <PrintText id="PT0033" name="Sekai">Let's practice!</PrintText>
+        <PrintText id="PT0034" name="Sekai">I'll help you out.</PrintText>
+        <PrintText id="PT0035" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0036" name="Sekai">Let's continue at my house... okay?</PrintText>
+    </File>
+    <File name="02-2K-Q00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">I'm home.</PrintText>
+        <PrintText id="PT0002" name="Sekai's Mother">Welcome home... oh?</PrintText>
+        <PrintText id="PT0003" name="Sekai">Ah. This is my 'friend' from class, Itou.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Um... my name's Itou Makoto.</PrintText>
+        <PrintText id="PT0005" name="Sekai's Mother">Itou... Makoto?</PrintText>
+        <PrintText id="PT0006" name="Makoto">Yes, that's me.</PrintText>
+        <PrintText id="PT0007" name="Sekai's Mother">Ahh! Yes, yes, 'Makoto-kun', right? Nice to meet you, Makoto-kun.</PrintText>
+        <PrintText id="PT0008" name="Makoto">...Thanks.</PrintText>
+    </File>
+    <File name="02-2K-Q01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Please pardon the intrusion.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ahaha... don't be so nervous.</PrintText>
+        <PrintText id="PT0003" name="Makoto">But... I didn't think there'd be someone home.</PrintText>
+        <PrintText id="PT0004" name="Sekai">What? You think I'd be like, 'There's no one home today, so...' and drag you back to my house?</PrintText>
+        <PrintText id="PT0005" name="Sekai">Idiot. Pervert.</PrintText>
+        <PrintText id="PT0006" name="Makoto">W-what? Kuh...</PrintText>
+        <PrintText id="PT0007" name="Sekai">I think I kind of messed up at lunchtime. There was no one around the stairs at lunch, so there was kind of a mood going.</PrintText>
+        <PrintText id="PT0008" name="Makoto">A mood...?</PrintText>
+        <PrintText id="PT0009" name="Sekai">It's dangerous to leave a boy and a girl together all alone, you know.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Uuuh...</PrintText>
+        <PrintText id="PT0011" name="Sekai">But at my house, we've got my mom in the living room.</PrintText>
+        <PrintText id="PT0012" name="Makoto">That's true.</PrintText>
+        <PrintText id="PT0013" name="Sekai">If you try anything seriously perverted, I'll shout, okay?</PrintText>
+        <PrintText id="PT0014" name="Makoto">I-I wouldn't do that.</PrintText>
+        <PrintText id="PT0015" name="Sekai">Who's to say? After all, you were this close to kissing me at lunchtime.</PrintText>
+        <PrintText id="PT0016" name="Makoto">T-that was... I'm sorry.</PrintText>
+        <PrintText id="PT0017" name="Sekai">Mmn. It's fine, so long as you've realized the error of your ways.</PrintText>
+        <PrintText id="PT0018" name="Makoto">Tsk.</PrintText>
+        <PrintText id="PT0019" name="Sekai">So, to sum up, no seriously perverted stuff. You can go and do that kind of thing with Katsura-san.</PrintText>
+        <PrintText id="PT0020" name="Makoto">...Yeah.</PrintText>
+        <PrintText id="PT0021" name="Sekai">Now, with that firmly in mind, let's get to practice.</PrintText>
+        <PrintText id="PT0022" name="Makoto">Okay.</PrintText>
+        <PrintText id="PT0023" name="Sekai">Ah, but before we start, I'm going to get changed. Go wait outside for a minute.</PrintText>
+        <PrintText id="PT0024" name="Makoto">All right.</PrintText>
+    </File>
+    <File name="02-2K-Q02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai's Mother">Oh.</PrintText>
+        <PrintText id="PT0002" name="Makoto">H-hi.</PrintText>
+        <PrintText id="PT0003" name="Sekai's Mother">Sekai's boyfriend.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Ah, no...</PrintText>
+        <PrintText id="PT0005" name="Sekai's Mother">So, I hear that you're her guy.</PrintText>
+        <PrintText id="PT0006" name="Makoto">N-no, really, I'm not...</PrintText>
+        <PrintText id="PT0007" name="Sekai's Mother">You're 'Makoto-kun', right? I'm always hearing about you from Sekai.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Haah...</PrintText>
+        <PrintText id="PT0009" name="Sekai's Mother">You're the girl who stood up for Se-chan at the entrance ceremony, aren't you? ...Or were you the boy being picked on?</PrintText>
+        <PrintText id="PT0010" name="Makoto">Se... chan?</PrintText>
+        <PrintText id="PT0011" name="Sekai's Mother">Sekai's childhood friend, Se-chan.</PrintText>
+        <PrintText id="PT0012" name="Makoto">You mean Kioura...?</PrintText>
+        <PrintText id="PT0013" name="Sekai's Mother">Yes, Kioura Setsuna-chan.</PrintText>
+        <PrintText id="PT0014" name="Makoto">Ah... yeah, I think something like that happened.</PrintText>
+        <PrintText id="PT0015" name="Sekai's Mother">Se-chan and Sekai are always talking about you, so it doesn't really feel like I'm meeting you for the first time.</PrintText>
+        <PrintText id="PT0016" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0017" name="Sekai's Mother">I mean, Sekai is always...</PrintText>
+        <PrintText id="PT0018" name="Sekai">Mom!</PrintText>
+        <PrintText id="PT0019" name="Sekai's Mother">Oh, Sekai.</PrintText>
+        <PrintText id="PT0020" name="Sekai">Stop feeding him useless information!</PrintText>
+        <PrintText id="PT0021" name="Sekai's Mother">Ehhh?</PrintText>
+        <PrintText id="PT0022" name="Sekai">Come on, Makoto. Let's go back to my room.</PrintText>
+        <PrintText id="PT0023" name="Makoto">O-okay.</PrintText>
+        <PrintText id="PT0024" name="Sekai's Mother">Ufufu... make yourself at home, 'Makoto-kun'.</PrintText>
+    </File>
+    <File name="02-2K-Q03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">What did Mom tell you?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Oh, nothing...</PrintText>
+        <PrintText id="PT0003" name="Sekai">My mom is always saying strange things, so don't take her seriously, okay?</PrintText>
+        <PrintText id="PT0004" name="Makoto">...Yeah.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Now, then... shall we... continue?</PrintText>
+        <PrintText id="PT0006" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0007" name="Sekai">Nn...</PrintText>
+        <PrintText id="PT0008" name="Makoto">This is the first time I've seen you in casual clothes.</PrintText>
+        <PrintText id="PT0009" name="Sekai">What do you think?</PrintText>
+        <PrintText id="PT0010" name="Makoto">They're pretty cute.</PrintText>
+        <PrintText id="PT0011" name="Sekai">Thanks.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Nnn...!</PrintText>
+        <PrintText id="PT0013" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0014" name="Sekai">Haah... ahh...! Ahh...</PrintText>
+        <PrintText id="PT0015" name="Makoto">...</PrintText>
+        <PrintText id="PT0016" name="Sekai">Mmn... Makoto...</PrintText>
+        <PrintText id="PT0017" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0018" name="Sekai">You're doing better than at lunchtime... nn...!</PrintText>
+        <PrintText id="PT0019" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0020" name="Sekai">Yeah... ah... mmn... you are... mn... nn!</PrintText>
+        <PrintText id="PT0021" name="Makoto">Haah... haah...</PrintText>
+        <PrintText id="PT0022" name="Sekai">No... not... there...</PrintText>
+        <PrintText id="PT0023" name="Makoto">It's just practice.</PrintText>
+        <PrintText id="PT0024" name="Sekai">Not even in practice...! Haah... ahh...</PrintText>
+        <PrintText id="PT0025" name="Makoto">It'll just be through clothes... like with your chest...</PrintText>
+        <PrintText id="PT0026" name="Sekai">Through...?</PrintText>
+        <PrintText id="PT0027" name="Makoto">Yeah. Just through your clothes.</PrintText>
+        <PrintText id="PT0028" name="Sekai">Then... I guess there's no helping it... hauu... nnn...</PrintText>
+        <PrintText id="PT0029" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0030" name="Sekai">Haah... haah... auu... haah... haah!</PrintText>
+        <PrintText id="PT0031" name="Makoto">Nn...</PrintText>
+        <PrintText id="PT0032" name="Sekai">Haah...! Ah! Ahh... haah... mnn.</PrintText>
+        <PrintText id="PT0033" name="Makoto">I'm... going to take off your bra.</PrintText>
+        <PrintText id="PT0034" name="Sekai">No... then... you'll be directly...</PrintText>
+        <PrintText id="PT0035" name="Makoto">It'll still be through your shirt.</PrintText>
+        <PrintText id="PT0036" name="Sekai">Nnn... okay... through... my shirt...</PrintText>
+        <PrintText id="PT0037" name="Makoto">Yeah... nnn...</PrintText>
+        <PrintText id="PT0038" name="Sekai">Haah... no... pervert...</PrintText>
+        <PrintText id="PT0039" name="Makoto">Nn... mm...</PrintText>
+        <PrintText id="PT0040" name="Sekai">Haah... don't suck so... ah... ah!</PrintText>
+        <PrintText id="PT0041" name="Makoto">Mnn... nn...</PrintText>
+        <PrintText id="PT0042" name="Sekai">No...! This is too embarrassing... nnh... ah...!</PrintText>
+        <PrintText id="PT0043" name="Sekai">No... this is too much... haah... haah...</PrintText>
+        <PrintText id="PT0044" name="Sekai">Don't take it off... you... you can't...</PrintText>
+        <PrintText id="PT0045" name="Makoto">I'm not taking it off... it's still covered.</PrintText>
+        <PrintText id="PT0046" name="Sekai">It's covered... but you're touching... nnaah! Haah... haah!</PrintText>
+        <PrintText id="PT0047" name="Makoto">Otherwise it'll get wet, right?</PrintText>
+        <PrintText id="PT0048" name="Sekai">Yes, but... haah... no... this... this is bad... wrong... mmn!</PrintText>
+        <PrintText id="PT0049" name="Makoto">I want to touch it... your...</PrintText>
+        <PrintText id="PT0050" name="Sekai">You want to...? Haah... haah... phew...</PrintText>
+        <PrintText id="PT0051" name="Makoto">Sekai... I love you...</PrintText>
+        <PrintText id="PT0052" name="Sekai">Haah... haah...! That's not fair... mmn...!</PrintText>
+        <PrintText id="PT0053" name="Makoto">I love you...!</PrintText>
+        <PrintText id="PT0054" name="Sekai">Nnn... nnn...! Makoto... I love you!</PrintText>
+        <PrintText id="PT0055" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0056" name="Sekai">Haah... ! Ah... ah... no... it's so... your... nnn...!</PrintText>
+        <PrintText id="PT0057" name="Makoto">Mmn...</PrintText>
+        <PrintText id="PT0058" name="Sekai">No... no... I can't... ah...! Ah...!</PrintText>
+        <PrintText id="PT0059" name="Sekai">Ah... ahhhh!</PrintText>
+        <PrintText id="PT0060" name="Sekai">Haah...!</PrintText>
+        <PrintText id="PT0061" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0062" name="Sekai">I came...</PrintText>
+        <PrintText id="PT0063" name="Sekai">Haah... haah...</PrintText>
+        <PrintText id="PT0064" name="Makoto">...</PrintText>
+        <PrintText id="PT0065" name="Sekai">I came... by myself, didn't I?</PrintText>
+        <PrintText id="PT0066" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0067" name="Sekai">I... noticed you getting hard.</PrintText>
+        <PrintText id="PT0068" name="Makoto">Well, yeah...</PrintText>
+        <PrintText id="PT0069" name="Sekai">Boys just can't help themselves, can they?</PrintText>
+        <PrintText id="PT0070" name="Sekai">What should I do...?</PrintText>
+    </File>
+    <File name="02-2K-Q04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I... I'd like you to use your mouth.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Mouth...</PrintText>
+        <PrintText id="PT0003" name="Makoto">It's called fellatio.</PrintText>
+        <PrintText id="PT0004" name="Sekai">I know that much! It may not look like it, but I'm quite a perverted girl, you know.</PrintText>
+        <PrintText id="PT0005" name="Makoto">I know that much.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Eheheh... my mouth, huh...</PrintText>
+        <PrintText id="PT0007" name="Makoto">No?</PrintText>
+        <PrintText id="PT0008" name="Sekai">No, I'll give it a try.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0010" name="Sekai">It might not go well, but... ready?</PrintText>
+        <PrintText id="PT0011" name="Sekai">Okay...</PrintText>
+        <PrintText id="PT0012" name="Makoto">Uuuh!</PrintText>
+        <PrintText id="PT0013" name="Sekai">Wah! It's hot...</PrintText>
+        <PrintText id="PT0014" name="Makoto">...</PrintText>
+        <PrintText id="PT0015" name="Sekai">Hey, does it feel nice when I touch it?</PrintText>
+        <PrintText id="PT0016" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0017" name="Sekai">I see... so it feels nice...</PrintText>
+        <PrintText id="PT0018" name="Makoto">Uuuh...</PrintText>
+        <PrintText id="PT0019" name="Sekai">Fufuh... you're so cute.</PrintText>
+        <PrintText id="PT0020" name="Makoto">Nn... stop teasing me.</PrintText>
+        <PrintText id="PT0021" name="Sekai">Aha... okay... here goes.</PrintText>
+        <PrintText id="PT0022" name="Makoto">...Nn!</PrintText>
+        <PrintText id="PT0023" name="Sekai">Nn... nn... n...</PrintText>
+        <PrintText id="PT0024" name="Makoto">Haah... uwah!</PrintText>
+        <PrintText id="PT0025" name="Sekai">N... n...</PrintText>
+        <PrintText id="PT0026" name="Makoto">T-this is amazing... Sekai... ahh!</PrintText>
+        <PrintText id="PT0027" name="Sekai">Just tell me when you're about to come, okay?</PrintText>
+        <PrintText id="PT0028" name="Makoto">Y-yeah...</PrintText>
+        <PrintText id="PT0029" name="Sekai">Is it true that boys can't stop themselves when they're about to come?</PrintText>
+        <PrintText id="PT0030" name="Makoto">Y... yeah.</PrintText>
+        <PrintText id="PT0031" name="Sekai">Then I guess there's no choice in the matter, no matter what you tell me.</PrintText>
+        <PrintText id="PT0032" name="Makoto">I... can't help it... can I? ...Auuu!</PrintText>
+        <PrintText id="PT0033" name="Sekai">I see...</PrintText>
+        <PrintText id="PT0034" name="Makoto">Haah!</PrintText>
+        <PrintText id="PT0035" name="Sekai">Nn...</PrintText>
+        <PrintText id="PT0036" name="Makoto">Ha... ha... nn!</PrintText>
+        <PrintText id="PT0037" name="Sekai">Nn... nn... nn!</PrintText>
+        <PrintText id="PT0038" name="Makoto">S-Sekai... if you keep sucking hard like that, I'll...</PrintText>
+        <PrintText id="PT0039" name="Sekai">Nn... nn... nn!</PrintText>
+        <PrintText id="PT0040" name="Makoto">Haah... haah...</PrintText>
+        <PrintText id="PT0041" name="Sekai">Nnn... nn...</PrintText>
+        <PrintText id="PT0042" name="Makoto">I'll... I'll come...!</PrintText>
+        <PrintText id="PT0043" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0044" name="Makoto">Hauu...</PrintText>
+        <PrintText id="PT0045" name="Sekai">Feel like you're coming?</PrintText>
+        <PrintText id="PT0046" name="Makoto">You can tell just by looking, right? ...P-please...</PrintText>
+        <PrintText id="PT0047" name="Sekai">Hey... will you listen to whatever I say?</PrintText>
+        <PrintText id="PT0048" name="Makoto">I... I will!</PrintText>
+        <PrintText id="PT0049" name="Sekai">In that case...</PrintText>
+        <PrintText id="PT0050" name="Makoto">Nnn...</PrintText>
+        <PrintText id="PT0051" name="Sekai">...Tell me you love me more.</PrintText>
+        <PrintText id="PT0052" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0053" name="Sekai">More than Katsura-san...</PrintText>
+        <PrintText id="PT0054" name="Makoto">What do you mean by...?</PrintText>
+        <PrintText id="PT0055" name="Sekai">Just kidding! ...Haha... I guess that's more than I can make you say just by holding your dick.</PrintText>
+        <PrintText id="PT0056" name="Makoto">S-Sekai...</PrintText>
+        <PrintText id="PT0057" name="Sekai">Hold on, I'll take you all the way. Just by looking at your reaction, I've basically figured out how to make it feel good.</PrintText>
+        <PrintText id="PT0058" name="Sekai">Nn... nn... nn...!</PrintText>
+        <PrintText id="PT0059" name="Makoto">I... I'm going to come...!</PrintText>
+        <PrintText id="PT0060" name="Sekai">Nn... nn...</PrintText>
+        <PrintText id="PT0061" name="Makoto">Uwah...!</PrintText>
+        <PrintText id="PT0062" name="Sekai">Mmn... mmf...</PrintText>
+        <PrintText id="PT0063" name="Sekai">Uweh... tastes funny.</PrintText>
+        <PrintText id="PT0064" name="Makoto">Haha...</PrintText>
+        <PrintText id="PT0065" name="Sekai">Did it feel nice?</PrintText>
+        <PrintText id="PT0066" name="Makoto">It was amazing.</PrintText>
+        <PrintText id="PT0067" name="Sekai">Eheheh.</PrintText>
+    </File>
+    <File name="02-2K-Q05.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...But you're still hard, aren't you?</PrintText>
+        <PrintText id="PT0002" name="Makoto">...I can't help it...</PrintText>
+        <PrintText id="PT0003" name="Makoto">...When I see you like that... I still want to...</PrintText>
+        <PrintText id="PT0004" name="Sekai">Hmmm.. that makes me kind of happy, and yet it doesn't...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Well, I meant it as a compliment.</PrintText>
+        <PrintText id="PT0006" name="Sekai">It was kind of hard to tell. Well, never mind.</PrintText>
+        <PrintText id="PT0007" name="Sekai">Want me to do it with my mouth one more time...?</PrintText>
+        <PrintText id="PT0008" name="Makoto">...Sekai.</PrintText>
+        <PrintText id="PT0009" name="Sekai">Hmm?</PrintText>
+        <PrintText id="PT0010" name="Makoto">I want to... put it inside you...</PrintText>
+        <PrintText id="PT0011" name="Sekai">Inside me...?</PrintText>
+        <PrintText id="PT0012" name="Makoto">...Yeah.</PrintText>
+        <PrintText id="PT0013" name="Sekai">You can't. Anything but that... nn!</PrintText>
+        <PrintText id="PT0014" name="Sekai">Nnn...! Nnn... nnaah...</PrintText>
+        <PrintText id="PT0015" name="Sekai">N... haah..</PrintText>
+        <PrintText id="PT0016" name="Makoto">Nnn...! Sekai...</PrintText>
+        <PrintText id="PT0017" name="Sekai">M... Makoto...</PrintText>
+        <PrintText id="PT0018" name="Makoto">I love you... Sekai.</PrintText>
+        <PrintText id="PT0019" name="Sekai">There you go again... it's a lie... and yet, I'm so happy...</PrintText>
+        <PrintText id="PT0020" name="Makoto">It's not a lie. I love you.</PrintText>
+        <PrintText id="PT0021" name="Sekai">...More than Katsura-san?</PrintText>
+        <PrintText id="PT0022" name="Makoto">Eh...?!</PrintText>
+        <PrintText id="PT0023" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0024" name="Makoto">Sekai... I...</PrintText>
+        <PrintText id="PT0025" name="Sekai">I-it's nothing. L-listen... I guess there's no helping it... I don't mind if we do it.</PrintText>
+        <PrintText id="PT0026" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0027" name="Sekai">But... you know... it's my first time, so...</PrintText>
+        <PrintText id="PT0028" name="Sekai">...Be gentle, okay?</PrintText>
+        <PrintText id="PT0029" name="Makoto">O-okay.</PrintText>
+        <PrintText id="PT0030" name="Makoto">A-ah...</PrintText>
+        <PrintText id="PT0031" name="Makoto">...Kuh... Sekai... I'm going to put it in.</PrintText>
+        <PrintText id="PT0032" name="Sekai">Nnn... slowly...</PrintText>
+        <PrintText id="PT0033" name="Makoto">...Is... this it...?</PrintText>
+        <PrintText id="PT0034" name="Sekai">...! There...!</PrintText>
+        <PrintText id="PT0035" name="Sekai">...Nn... eek...!</PrintText>
+        <PrintText id="PT0036" name="Makoto">Does it hurt?</PrintText>
+        <PrintText id="PT0037" name="Sekai">Kuh...!</PrintText>
+        <PrintText id="PT0038" name="Sekai">It's okay, you can move...</PrintText>
+        <PrintText id="PT0039" name="Makoto">O-okay.</PrintText>
+        <PrintText id="PT0040" name="Sekai">Uu... nn?</PrintText>
+        <PrintText id="PT0041" name="Sekai">Yeah... I'm okay... kiss me.</PrintText>
+        <PrintText id="PT0042" name="Sekai">Nn... nnn...!</PrintText>
+        <PrintText id="PT0043" name="Sekai">...Haah.. unn...</PrintText>
+        <PrintText id="PT0044" name="Sekai">Nnn... nnn...! Ahh...! Haah!</PrintText>
+        <PrintText id="PT0045" name="Sekai">I feel a lot calmer now... it's not as painful as I've heard...</PrintText>
+        <PrintText id="PT0046" name="Sekai">Nnn... haah... haah... haah... ah...</PrintText>
+        <PrintText id="PT0047" name="Sekai">Ahh...! ahhn... haah... haah... nn...</PrintText>
+        <PrintText id="PT0048" name="Makoto">Sekai... Sekai... I... I...</PrintText>
+        <PrintText id="PT0049" name="Makoto">I'm going to... kuh...!</PrintText>
+        <PrintText id="PT0050" name="Makoto">Kuh... I'm coming...</PrintText>
+        <PrintText id="PT0051" name="Sekai">Ah... n-no... outside... nnn!</PrintText>
+        <PrintText id="PT0052" name="Sekai">Haah... haah... haah...!</PrintText>
+        <PrintText id="PT0053" name="Sekai">Haah...</PrintText>
+        <PrintText id="PT0054" name="Makoto">Nnn...</PrintText>
+        <PrintText id="PT0055" name="Sekai">We did it.</PrintText>
+        <PrintText id="PT0056" name="Makoto">So we did.</PrintText>
+        <PrintText id="PT0057" name="Sekai">Uwah... talk about the worst way to lose your virginity.</PrintText>
+        <PrintText id="PT0058" name="Makoto">What do you mean? That's awful.</PrintText>
+        <PrintText id="PT0059" name="Sekai">But it felt good, so I forgive you.</PrintText>
+        <PrintText id="PT0060" name="Makoto">Hahaha...</PrintText>
+        <PrintText id="PT0061" name="Sekai">Eheheh...</PrintText>
+        <PrintText id="PT0062" name="Makoto">I did this because I wanted to, you know.</PrintText>
+        <PrintText id="PT0063" name="Makoto">Ah... come to think of it, given how much noise we made, do you think your mom noticed?</PrintText>
+        <PrintText id="PT0064" name="Sekai">My mom's not here.</PrintText>
+        <PrintText id="PT0065" name="Makoto">Huh?</PrintText>
+        <PrintText id="PT0066" name="Sekai">She said she's on the late shift tonight, so she should have already left by now.</PrintText>
+        <PrintText id="PT0067" name="Makoto">...You mean...?</PrintText>
+        <PrintText id="PT0068" name="Sekai">Yep.</PrintText>
+        <PrintText id="PT0069" name="Sekai">But if I'd said my mom wasn't going to be home, it'd be as if I was completely seducing you.</PrintText>
+        <PrintText id="PT0070" name="Makoto">That's true.</PrintText>
+        <PrintText id="PT0071" name="Sekai">Ooh! I really didn't intend for it to end up this way! Believe me!</PrintText>
+        <PrintText id="PT0072" name="Makoto">...Pfft!</PrintText>
+        <PrintText id="PT0073" name="Sekai">Makoto?</PrintText>
+        <PrintText id="PT0074" name="Sekai">Yeah.</PrintText>
+    </File>
+    <File name="02-2K-R00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">It's gotten pretty late, hasn't it?</PrintText>
+        <PrintText id="PT0002" name="Sekai">Won't your mom worry about you?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Thankfully, she's on the late shift tonight too.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Well, well... in that case, we could have gone to your house, too.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Yeah, and then maybe it'd be me saying, 'I didn't intend for things to end up this way!'</PrintText>
+        <PrintText id="PT0006" name="Sekai">Ahaha.</PrintText>
+        <PrintText id="PT0007" name="Makoto">See you later.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Yep. Bye bye.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Good night.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Ah!</PrintText>
+        <PrintText id="PT0011" name="Makoto">What's wrong?</PrintText>
+        <PrintText id="PT0012" name="Sekai">Listen.</PrintText>
+        <PrintText id="PT0013" name="Makoto">What is it? The train's about to leave.</PrintText>
+        <PrintText id="PT0014" name="Sekai">...I'm not going tell Katsura-san.</PrintText>
+        <PrintText id="PT0015" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0016" name="Sekai">The practice ends here. Good night!</PrintText>
+    </File>
+    <File name="02-2K-Z00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Sorry.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Things didn't go well?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Well... not really, no.</PrintText>
+        <PrintText id="PT0004" name="Sekai">If you like, you can tell me about it... ah, and if you don't think I can help, I can go and find someone who can!</PrintText>
+        <PrintText id="PT0005" name="Makoto">...Yeah.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0007" name="Makoto">Am I... weird?</PrintText>
+        <PrintText id="PT0008" name="Sekai">Weird?</PrintText>
+        <PrintText id="PT0009" name="Makoto">I love Kotonoha.</PrintText>
+        <PrintText id="PT0010" name="Sekai">There's nothing weird about that.</PrintText>
+        <PrintText id="PT0011" name="Makoto">It's weird... whenever I think about her, I feel like I want to embrace her and...</PrintText>
+        <PrintText id="PT0012" name="Makoto">and even do those perverted things you keep talking about.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Just yesterday, I couldn't help myself. I forced myself on her, and...</PrintText>
+        <PrintText id="PT0014" name="Sekai">So that's why Katsura-san is...</PrintText>
+        <PrintText id="PT0015" name="Makoto">I'm hopeless, aren't I...?</PrintText>
+        <PrintText id="PT0016" name="Sekai">But... it's normal to want to do those things with the person you love, right?</PrintText>
+        <PrintText id="PT0017" name="Makoto">You think so...?</PrintText>
+        <PrintText id="PT0018" name="Sekai">You probably just went about it the wrong way.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Way...?</PrintText>
+        <PrintText id="PT0020" name="Sekai">Anyone would be afraid if you just suddenly threw yourself at them.</PrintText>
+        <PrintText id="PT0021" name="Makoto">I didn't 'throw' myself at her.</PrintText>
+        <PrintText id="PT0022" name="Sekai">Reaaaally?</PrintText>
+        <PrintText id="PT0023" name="Makoto">R-really, I didn't.</PrintText>
+        <PrintText id="PT0024" name="Sekai">Really? For real?</PrintText>
+        <PrintText id="PT0025" name="Makoto">I... guess I was a little forceful.</PrintText>
+        <PrintText id="PT0026" name="Sekai">See?</PrintText>
+        <PrintText id="PT0027" name="Makoto">Uuu...</PrintText>
+        <PrintText id="PT0028" name="Makoto">I just don't know how to take a girl's feelings into consideration like that...</PrintText>
+        <PrintText id="PT0029" name="Sekai">Hmm...</PrintText>
+        <PrintText id="PT0030" name="Makoto">Haah...</PrintText>
+        <PrintText id="PT0031" name="Makoto">Hey, what about you, Sekai?</PrintText>
+        <PrintText id="PT0032" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0033" name="Makoto">You're technically a girl, right? You should know.</PrintText>
+        <PrintText id="PT0034" name="Sekai">'Technically'... that's just mean. Well, I guess you'd normally kiss her...</PrintText>
+        <PrintText id="PT0035" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0036" name="Sekai">...</PrintText>
+        <PrintText id="PT0037" name="Makoto">What is it? Go on.</PrintText>
+        <PrintText id="PT0038" name="Sekai">Listen, why don't you practice on me?</PrintText>
+        <PrintText id="PT0039" name="Makoto">Ehh?! I can't do that.</PrintText>
+        <PrintText id="PT0040" name="Sekai">It'll just be pretend. You can practice how to approach a girl gently.</PrintText>
+        <PrintText id="PT0041" name="Makoto">I see... practice, huh...</PrintText>
+        <PrintText id="PT0042" name="Sekai">Rather than just talking about it, I think you'll pick it up better by actually practicing.</PrintText>
+        <PrintText id="PT0043" name="Makoto">You're right.</PrintText>
+        <PrintText id="PT0044" name="Sekai">Ah, but listen, this is just practice, okay? If you really kiss me, I'll kill you.</PrintText>
+        <PrintText id="PT0045" name="Makoto">Like I would!</PrintText>
+        <PrintText id="PT0046" name="Sekai">Good.</PrintText>
+        <PrintText id="PT0047" name="Makoto">Still... actual practice, huh...</PrintText>
+        <PrintText id="PT0048" name="Sekai">Okay, ready?</PrintText>
+        <PrintText id="PT0049" name="Makoto">Hmm... well...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'This isn't right'" sel2="null"/>
+    </File>
+    <File name="02-2S-A00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Mom, where did you put our thermos?</PrintText>
+        <PrintText id="PT0002" name="Kotonoha's Mother">What's this about, all of a sudden?</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Our vacuum bottle. We have one, right?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha's Mother">It's in the back of the cupboard, on the left. What are you going to use it for?</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">It looks like it's going to be a cold day tomorrow, so I thought I'd bring something warm to drink.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha's Mother">That's unusual of you.</PrintText>
+        <PrintText id="PT0007" name="Kokoro">Onee-chan's been acting strange lately, reading books on sewing and digging up books on cooking and stuff.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha's Mother">I see. So, Kotonoha's finally going through that phase.</PrintText>
+        <PrintText id="PT0009" name="Kokoro">'That phase'?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha's Mother">Kotonoha. What do you intend to make?</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">I don't know... what about some black tea?</PrintText>
+        <PrintText id="PT0012" name="Kotonoha's Mother">Does he like sweet things?</PrintText>
+        <PrintText id="PT0013" name="Kotonoha">I don't know... eh?!</PrintText>
+        <PrintText id="PT0014" name="Kotonoha's Mother">Fufuh... just leave it to me.</PrintText>
+        <PrintText id="PT0015" name="Kotonoha's Mother">I'm going to teach you my recipe for making lemonade. I'm sure your boyfriend is going to love it.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">'B-boyfriend'...? I... it's not like that. I just...</PrintText>
+        <PrintText id="PT0017" name="Kotonoha's Mother">Oh, don't worry about it.</PrintText>
+    </File>
+    <File name="02-2S-A01.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha's Mother">Oh, Kotonoha.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah, Mom, you're home.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha's Mother">Yes, for once, I am. What's with those clothes?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">I'm going to change right away. You're coming home early these days, aren't you?</PrintText>
+        <PrintText id="PT0005" name="Kotonoha's Mother">Yes, it's my way of making up for my usual absences. It looks like I'll soon be coming home late again for a while, though.</PrintText>
+        <PrintText id="PT0006" name="Kokoro">Ehhh?</PrintText>
+        <PrintText id="PT0007" name="Kotonoha's Mother">So... how did it go today?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">What do you mean?</PrintText>
+        <PrintText id="PT0009" name="Kotonoha's Mother">The lemonade. Was he happy?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Ah...</PrintText>
+        <PrintText id="PT0011" name="Kotonoha's Mother">Come on, don't keep it a secret. Tell me.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Um, well... yeah.</PrintText>
+        <PrintText id="PT0013" name="Kotonoha's Mother">Ooh! That's good to hear.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Yes. Thanks, Mom.</PrintText>
+        <PrintText id="PT0015" name="Kotonoha's Mother">That's all right... oh, I know. I'll give you these.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Eh...? What are these?</PrintText>
+        <PrintText id="PT0017" name="Kotonoha's Mother">Movie tickets. I got them from a client.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">A movie, huh...?</PrintText>
+        <PrintText id="PT0019" name="Kotonoha's Mother">Ah, I'm not giving them to you if you're going to be like that.</PrintText>
+        <PrintText id="PT0020" name="Kotonoha">But I went to a movie just recently.</PrintText>
+        <PrintText id="PT0021" name="Kotonoha's Mother">With that boy?</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0023" name="Kotonoha's Mother">Wow... I see.</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">Oh, but I'll take them anyway. If it's a different movie, it should be fine.</PrintText>
+        <PrintText id="PT0025" name="Kotonoha's Mother">It looks like it's a remake of an old romance movie.</PrintText>
+        <PrintText id="PT0026" name="Kotonoha">That should be okay, then. May I have them?</PrintText>
+        <PrintText id="PT0027" name="Kotonoha's Mother">Sure.</PrintText>
+    </File>
+    <File name="02-2S-A02.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">I wonder if Makoto-kun is still awake...?</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">He's probably asleep. I'll try inviting him tomorrow.</PrintText>
+    </File>
+    <File name="02-2S-A03.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">I'm home.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha's Mother">Welcome home.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Ah, Mom. I'm giving you your tickets back.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha's Mother">Giving them back? I've got no use for tickets that expire today, you know.</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">That's true.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha's Mother">What, did he turn you down?</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">N-o, h-e d-i-d-n-'t. Makoto-kun said he had to go and see his sister.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha's Mother">Oh, so his name is Makoto-kun.</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Ah.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha's Mother">That's a shame, but you don't look too down.</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">Yes, something good happened.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha's Mother">Really? Glad to hear it.</PrintText>
+        <PrintText id="PT0013" name="Kotonoha">I've got to tell Makoto-kun, too.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha's Mother">Be sure to bring this 'Makoto-kun' to our house sometime, okay?</PrintText>
+        <PrintText id="PT0015" name="Kotonoha">Ehhh?</PrintText>
+        <PrintText id="PT0016" name="Kotonoha's Mother">I was just on the phone with your father, and he said he'd like to meet him too.</PrintText>
+        <PrintText id="PT0017" name="Kotonoha">No way. I don't want to introduce him to Dad.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha's Mother">Fufuh... just bring him along.</PrintText>
+        <PrintText id="PT0019" name="Kotonoha">Mmn... I'll think about it.</PrintText>
+    </File>
+    <File name="02-2S-B00.ENG.ORS">
+        <PrintText id="PT0001" name="Setsuna">Sekai.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Hmn?</PrintText>
+        <PrintText id="PT0003" name="Setsuna">I'm happy for you.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0005" name="Setsuna">Something good happened, right?</PrintText>
+        <PrintText id="PT0006" name="Sekai">...I'm not sure.</PrintText>
+        <PrintText id="PT0007" name="Setsuna">You wouldn't tell me anything, so I was worried about you.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Sorry.</PrintText>
+        <PrintText id="PT0009" name="Setsuna">It's okay. After all, it looks like you're feeling better now.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Thanks...</PrintText>
+    </File>
+    <File name="02-2S-C00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Morning.</PrintText>
+        <PrintText id="PT0003" name="Sekai">Morning.</PrintText>
+        <PrintText id="PT0004" name="Makoto">I thought really hard about it...</PrintText>
+        <PrintText id="PT0005" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0006" name="Makoto">About us, and Kotonoha.</PrintText>
+        <SetSELECT id="SEL0001" sel1="'We should tell her'" sel2="'Let's keep it a secret'"/>
+    </File>
+    <File name="02-2S-C01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">We've got to tell Kotonoha.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah, you're right.</PrintText>
+        <PrintText id="PT0003" name="Makoto">It might make her angry, but I've got to tell her how I really feel.</PrintText>
+        <PrintText id="PT0004" name="Sekai">I'll come with you.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Sekai.</PrintText>
+        <PrintText id="PT0006" name="Sekai">I'm the one who introduced Katsura-san to you... and just look how things ended up.</PrintText>
+        <PrintText id="PT0007" name="Makoto">...</PrintText>
+        <PrintText id="PT0008" name="Sekai">You don't mind, do you?</PrintText>
+    </File>
+    <File name="02-2S-C02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Let's keep it a secret.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ehh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">It'd be awkward.</PrintText>
+        <PrintText id="PT0004" name="Sekai">B-but...!</PrintText>
+        <PrintText id="PT0005" name="Makoto">She's definitely going to get angry.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Yeah, but... I don't think it's right to keep it a secret.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Still...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Yeah... let's tell her'" sel2="'It's going to be hard to tell her'"/>
+    </File>
+    <File name="02-2S-C03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Yeah... let's tell her.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Haah... this is going to be hard.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Yeah... hey.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Hmm?</PrintText>
+        <PrintText id="PT0006" name="Sekai">I'll come and tell her with you.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0008" name="Sekai">This would never have happened if I hadn't introduced her to you.</PrintText>
+        <PrintText id="PT0009" name="Makoto">...</PrintText>
+        <PrintText id="PT0010" name="Sekai">You don't mind, do you?</PrintText>
+    </File>
+    <File name="02-2S-C04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">It's going to be hard to tell her.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah, but...</PrintText>
+        <PrintText id="PT0003" name="Makoto">S-so, why don't we just...?</PrintText>
+        <PrintText id="PT0004" name="Sekai">Yeah.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Then...?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Let's tell her together'" sel2="'You tell her'"/>
+    </File>
+    <File name="02-2S-C05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Let's tell her together.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Yeah.</PrintText>
+        <PrintText id="PT0003" name="Makoto">After all, it's about the two of us.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Yep. It's better if we both tell her.</PrintText>
+    </File>
+    <File name="02-2S-C06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">You tell her.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ehh?! Me?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Yeah. A-after all, you were the one who introduced her to me.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Ah! That's not fair! So it's my fault now?!</PrintText>
+        <PrintText id="PT0005" name="Makoto">Well, not completely, but you're involved in this too...</PrintText>
+        <PrintText id="PT0006" name="Sekai">That doesn't mean I should go by myself... b-besides, I wouldn't know what to say to her.</PrintText>
+        <PrintText id="PT0007" name="Makoto">O-of course you would!</PrintText>
+        <PrintText id="PT0008" name="Sekai">I don't!</PrintText>
+        <PrintText id="PT0009" name="Makoto">Y-you know, like, 'The two of us feel the same way'...</PrintText>
+        <PrintText id="PT0010" name="Sekai">Why don't you tell her, then?</PrintText>
+        <PrintText id="PT0011" name="Makoto">W-well...</PrintText>
+        <PrintText id="PT0012" name="Sekai">In that case...</PrintText>
+        <PrintText id="PT0013" name="Makoto">In that case...?</PrintText>
+        <PrintText id="PT0014" name="Sekai">Shall we... tell her together?</PrintText>
+        <PrintText id="PT0015" name="Makoto">Together...?</PrintText>
+        <PrintText id="PT0016" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0017" name="Makoto">Together, huh...?</PrintText>
+        <PrintText id="PT0018" name="Sekai">After all, this concerns both of us.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Yeah... I guess you're right.</PrintText>
+        <PrintText id="PT0020" name="Sekai">Let's tell her together, then. Okay?</PrintText>
+        <PrintText id="PT0021" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0022" name="Sekai">All right, it's settled.</PrintText>
+    </File>
+    <File name="02-2S-C07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Let's go together at lunchtime, then.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Are we meeting Katsura-san on the roof?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Yeah.</PrintText>
+    </File>
+    <File name="02-2S-C08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Makoto?</PrintText>
+        <PrintText id="PT0003" name="Makoto">Mmn...</PrintText>
+        <PrintText id="PT0004" name="Sekai">Look, I'll tell her.</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+        <PrintText id="PT0006" name="Sekai">I'll tell her by myself.</PrintText>
+        <PrintText id="PT0007" name="Makoto">W-wait.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Don't worry, it'll be fine.</PrintText>
+        <PrintText id="PT0009" name="Makoto">If that's the alternative, I'd rather come too.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Are you sure?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Okay. Let's tell her together, then.</PrintText>
+    </File>
+    <File name="02-2S-C09.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">"From: Katsura Kotonoha\nSub: I'll be late\nI'm so sorry!"</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">"I'm so sorry! There's a short-notice student rep meeting today, so I'm going to be about 20 minutes late."</PrintText>
+        <PrintText id="PT0003" name="Makoto">"To: Saionji Sekai\nSub: Fwd: I'll be late\nText: I'm sorry!"</PrintText>
+    </File>
+    <File name="02-2S-C10.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Let's go.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Okay. Hold on for a second.</PrintText>
+    </File>
+    <File name="02-2S-D00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...</PrintText>
+    </File>
+    <File name="02-2S-F00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Let's go.</PrintText>
+        <PrintText id="PT0002" name="Makoto">...Yeah.</PrintText>
+    </File>
+    <File name="02-2S-G00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">I... I'm kind of nervous.</PrintText>
+        <PrintText id="PT0002" name="Makoto">You too? I feel the same way.</PrintText>
+        <PrintText id="PT0003" name="Sekai">It's kind of scary, isn't it? After all...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Ah! Makoto-kun.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">I see Saionji-san's here today too. Ufufu...</PrintText>
+        <PrintText id="PT0007" name="Makoto">Ah... yeah.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Eheheh... you've come on just the right day.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Just the right day...?</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">I've brought a little more than usual.</PrintText>
+        <PrintText id="PT0011" name="Makoto">Brought...?</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Hot lemonade. It'll warm you up.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Wow.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">It was cold yesterday and the day before, right? That's why I thought it'd be nice to have something warm to drink.</PrintText>
+        <PrintText id="PT0015" name="Makoto">Y-yeah...</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Please have some too, Saionji-san. There's more than enough for everyone.</PrintText>
+        <PrintText id="PT0017" name="Sekai">Eh?! Ah... yeah, thanks.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">Fufuh... well, let's go.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Yeah...</PrintText>
+    </File>
+    <File name="02-2S-H00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Let's eat.</PrintText>
+        <PrintText id="PT0002" name="Sekai">L-let's eat.</PrintText>
+        <PrintText id="PT0003" name="Makoto">...Let's eat.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Here, Makoto-kun. Have some lemonade.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Ah, thanks.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Ufufu...</PrintText>
+        <PrintText id="PT0007" name="Makoto">W-what should I do...?</PrintText>
+        <PrintText id="PT0008" name="Makoto">I don't know why, but unlike yesterday and before, Kotonoha seems really cheerful today.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Maybe...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'We don't have to tell her after all'" sel2="null"/>
+    </File>
+    <File name="02-2S-H01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...We don't have to tell her after all.</PrintText>
+        <PrintText id="PT0002" name="Makoto">There's no need to tell her something that'll just make her feel bad...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0004" name="Makoto">W-what is it?</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">Nothing...</PrintText>
+        <PrintText id="PT0006" name="Makoto">C-crap... is she angry after all...?</PrintText>
+        <PrintText id="PT0007" name="Makoto">Or maybe she's noticed about Sekai?</PrintText>
+        <PrintText id="PT0008" name="Makoto">I wonder if she has...?</PrintText>
+        <SetSELECT id="SEL0001" sel1="'This lemonade is delicious'" sel2="'We have something to tell you'"/>
+    </File>
+    <File name="02-2S-H03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Makoto.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0003" name="Sekai">Katsura-san's going to be left wondering, you know.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0005" name="Sekai">We've got to tell her.</PrintText>
+        <PrintText id="PT0006" name="Makoto">T-tell her what?</PrintText>
+        <PrintText id="PT0007" name="Sekai">Isn't that obvious?</PrintText>
+        <PrintText id="PT0008" name="Makoto">Y-yeah... l-listen, Kotonoha...</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Yes?</PrintText>
+        <PrintText id="PT0010" name="Makoto">Um... well...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Sekai and I are...!'" sel2="'This lemonade is delicious'"/>
+    </File>
+    <File name="02-2S-H04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">This lemonade is delicious.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...Really?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">It's warm and sweet... just perfect for this time of year.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Eheheh... I learned the recipe from my mother.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">She said it had a memorable taste for her, because she used to make it for Dad when they were dating.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Haha... I see.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0009" name="Sekai">...</PrintText>
+    </File>
+    <File name="02-2S-H05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">We have something to tell you.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">I...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Yes?</PrintText>
+        <PrintText id="PT0005" name="Makoto">I... the truth is, Seka...</PrintText>
+    </File>
+    <File name="02-2S-H06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Hey.</PrintText>
+        <PrintText id="PT0003" name="Makoto">What?</PrintText>
+        <PrintText id="PT0004" name="Sekai">When are you going to say it?</PrintText>
+        <PrintText id="PT0005" name="Makoto">S-shut up, I'm about to.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Eh? About to do what?</PrintText>
+        <PrintText id="PT0007" name="Makoto">W-w-wah! Nothing!</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0009" name="Makoto">...</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">U-um, Makoto-kun.</PrintText>
+        <PrintText id="PT0011" name="Makoto">Y-yes?</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">What... do you think?</PrintText>
+        <PrintText id="PT0013" name="Makoto">Eh? About what...?</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0015" name="Makoto">W-what's she talking about? What do I think about what...?</PrintText>
+        <PrintText id="PT0016" name="Makoto">Um... let's see...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'She's beautiful'" sel2="'This lemonade is delicious'"/>
+    </File>
+    <File name="02-2S-H07.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Y-yes, well...</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">It sure warms you up.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Y-yes. It's... warm.</PrintText>
+    </File>
+    <File name="02-2S-H08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Thanks for the food.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Aren't you going to eat any more?</PrintText>
+        <PrintText id="PT0004" name="Sekai">Nope. I'm not really feeling hungry.</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">I see.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Well, I'll be going back to class now.</PrintText>
+        <PrintText id="PT0007" name="Makoto">We've only just begun to eat.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Yep. The two of you can continue.</PrintText>
+        <PrintText id="PT0009" name="Makoto">No way...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I'm going back down too'" sel2="'Let's all go back together'"/>
+    </File>
+    <File name="02-2S-H09.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Sekai and I are...!</PrintText>
+    </File>
+    <File name="02-2S-H10.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Never mind.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">I see...</PrintText>
+    </File>
+    <File name="02-2S-I00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Ah, Saionji-san. If you'd like, you can have some too.</PrintText>
+        <PrintText id="PT0002" name="Sekai">That's okay. I've got my own drink.</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">I see.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Looks like I'm the only one drinking. You have some too, Kotonoha.</PrintText>
+        <PrintText id="PT0005" name="Kotonoha">Eh...?!</PrintText>
+        <PrintText id="PT0006" name="Makoto">Here.</PrintText>
+        <SetSELECT id="SEL0001" sel1="'You have some too'" sel2="null"/>
+    </File>
+    <File name="02-2S-I01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Beautiful!</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">Somehow... you seem really beautiful today!</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">T... thank you...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Mmmnf... ngngh... glug glug...</PrintText>
+        <PrintText id="PT0006" name="Makoto">Uuu... I think I've had too much lemonade... I'm going to the toilet for a second.</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">Um...</PrintText>
+        <PrintText id="PT0008" name="Sekai">Hmn?</PrintText>
+        <PrintText id="PT0009" name="Kotonoha">Did you... hear that just then?</PrintText>
+        <PrintText id="PT0010" name="Sekai">Just then?</PrintText>
+        <PrintText id="PT0011" name="Kotonoha">Makoto-kun said I was beautiful.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Yeah...</PrintText>
+        <PrintText id="PT0013" name="Kotonoha">I can't believe it... did it really happen?</PrintText>
+        <PrintText id="PT0014" name="Sekai">Well... I think you're beautiful, and Makoto probably thinks the same, right?</PrintText>
+        <PrintText id="PT0015" name="Kotonoha">That's not what I mean. Actually...</PrintText>
+        <PrintText id="PT0016" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0017" name="Kotonoha">I made today's lemonade with a recipe I learned from my mother.</PrintText>
+        <PrintText id="PT0018" name="Sekai">I see.</PrintText>
+        <PrintText id="PT0019" name="Kotonoha">My mother said, 'Once he drinks this, he'll be head over heels for you.'</PrintText>
+        <PrintText id="PT0020" name="Sekai">Head over heels...</PrintText>
+        <PrintText id="PT0021" name="Kotonoha">Ah, you wouldn't really use that expression nowadays, would you...?</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">But that's not what I mean. I wonder if it really worked, just like Mom said?</PrintText>
+        <PrintText id="PT0023" name="Sekai">The lemonade?</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0025" name="Sekai">...Looks like it did, doesn't it?</PrintText>
+        <PrintText id="PT0026" name="Kotonoha">Really?</PrintText>
+        <PrintText id="PT0027" name="Sekai">I think Makoto saw you in a whole new light.</PrintText>
+        <PrintText id="PT0028" name="Kotonoha">Really...?</PrintText>
+        <PrintText id="PT0029" name="Sekai">I think he fell in love with you... all over again.</PrintText>
+        <PrintText id="PT0030" name="Kotonoha">Eheheh...</PrintText>
+    </File>
+    <File name="02-2S-I02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">...I'm sorry.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">...I thought that maybe it was a little too sweet.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Mom said that this would be just right, but this was the first time for me, so...</PrintText>
+        <PrintText id="PT0007" name="Makoto">N-no... oh, I see, you mean the lemonade... u-um...!</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">It's all right. Next time... I'll be sure to...</PrintText>
+        <PrintText id="PT0009" name="Makoto">Ah...</PrintText>
+    </File>
+    <File name="02-2S-I03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I'm going back down too.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah...</PrintText>
+    </File>
+    <File name="02-2S-I04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Let's all go back together, then.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ah! Yes.</PrintText>
+        <PrintText id="PT0003" name="Makoto">It's a little too chilly to be here today, isn't it?</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Yes, you're right.</PrintText>
+    </File>
+    <File name="02-2S-I05.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...Would you like some lemonade?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Sure.</PrintText>
+    </File>
+    <File name="02-2S-I06.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Ah, that lemonade looks delicious!</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Please have some, Saionji-san.</PrintText>
+        <PrintText id="PT0003" name="Sekai">Sure, I'll have a glass too.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Here.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Mmn... smells nice.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Ufufu...</PrintText>
+        <PrintText id="PT0007" name="Sekai">Pfff... pfff... mmmn... delicious!</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Really?</PrintText>
+        <PrintText id="PT0009" name="Sekai">Yep! Sweet, with the fragrance of lemons. It's great!</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">It is, isn't it?</PrintText>
+        <PrintText id="PT0011" name="Sekai">And it's a perfect fit for the weather, too!</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Eheheh... I learned the recipe from my mother.</PrintText>
+        <PrintText id="PT0013" name="Sekai">Wow, really?</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Actually, when I told Mom about Makoto-kun, she said I should bring this lemonade.</PrintText>
+        <PrintText id="PT0015" name="Sekai">I see... your mom told you.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">She said, 'I used to bring this on dates with your father, and I used it to make him mine.'</PrintText>
+        <PrintText id="PT0017" name="Sekai">Then it must really work, right?</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">Do you think so?</PrintText>
+        <PrintText id="PT0019" name="Sekai">I think Makoto's really pleased.</PrintText>
+        <PrintText id="PT0020" name="Kotonoha">I thought that might be the case, too.</PrintText>
+        <PrintText id="PT0021" name="Makoto">Hey, what are you two talking about?</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">W-wah! It's nothing.</PrintText>
+        <PrintText id="PT0023" name="Makoto">?</PrintText>
+        <PrintText id="PT0024" name="Sekai">Secret girls' talk. Right, Katsura-san?</PrintText>
+        <PrintText id="PT0025" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0026" name="Makoto">Hmm...?</PrintText>
+        <PrintText id="PT0027" name="Sekai">Haha...</PrintText>
+    </File>
+    <File name="02-2S-J00.ENG.ORS"/>
+    <File name="02-2S-J01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">What's wrong?</PrintText>
+        <PrintText id="PT0002" name="Makoto">"Don't make that face. I couldn't tell her this time, but I'll make sure I do it next time, okay?"</PrintText>
+        <PrintText id="PT0003" name="Sekai">I bet you really like Katsura-san more.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Eh?! What?</PrintText>
+        <PrintText id="PT0005" name="Sekai">Nothing.</PrintText>
+        <PrintText id="PT0006" name="Makoto">What's with you?</PrintText>
+        <PrintText id="PT0007" name="Makoto">Y-yes, sir!</PrintText>
+        <PrintText id="PT0008" name="Makoto">"See that? You just got me in trouble."</PrintText>
+        <PrintText id="PT0009" name="Makoto">What was that all about...?</PrintText>
+    </File>
+    <File name="02-2S-J02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2S-J03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">"Don't make that face. I couldn't tell her this time, but I'll make sure I do it next time, okay?"</PrintText>
+        <PrintText id="PT0004" name="Sekai">"Yeah, sure you will!"</PrintText>
+        <PrintText id="PT0005" name="Makoto">"Yeah, sure you will!"</PrintText>
+        <PrintText id="PT0006" name="Makoto">I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I love Sekai'" sel2="'I love Sekai more than Kotonoha'"/>
+    </File>
+    <File name="02-2S-J04.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">...</PrintText>
+    </File>
+    <File name="02-2S-J05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"I love you."</PrintText>
+        <PrintText id="PT0002" name="Sekai">"I love you too."</PrintText>
+    </File>
+    <File name="02-2S-J06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"I love you more than her."</PrintText>
+        <PrintText id="PT0002" name="Sekai">"I love you too."</PrintText>
+    </File>
+    <File name="02-2S-J07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">The way I really feel...</PrintText>
+        <PrintText id="PT0002" name="Makoto">"The truth is, I..."</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I don't think I know'" sel2="'I might like Kotonoha'"/>
+    </File>
+    <File name="02-2S-J08.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"The truth is, I don't think I know."</PrintText>
+        <PrintText id="PT0002" name="Sekai">Makoto...</PrintText>
+    </File>
+    <File name="02-2S-J09.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">"The truth is, I might like Kotonoha."</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ehh?!</PrintText>
+        <PrintText id="PT0003" name="Sekai">Ah... oh, nothing, ahaha.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Ahaha... I think I just had a bad dream...</PrintText>
+        <PrintText id="PT0005" name="Sekai">Yes...</PrintText>
+        <PrintText id="PT0006" name="Sekai">Okay...</PrintText>
+        <PrintText id="PT0007" name="Nanami">Sekai...</PrintText>
+        <PrintText id="PT0008" name="Makoto">...</PrintText>
+        <PrintText id="PT0009" name="Sekai">...</PrintText>
+    </File>
+    <File name="02-2S-J10.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I...</PrintText>
+        <PrintText id="PT0002" name="Makoto">...</PrintText>
+        <PrintText id="PT0003" name="Sekai">...</PrintText>
+    </File>
+    <File name="02-2S-K00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Ah, hold on.</PrintText>
+    </File>
+    <File name="02-2S-K01.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Makoto.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0003" name="Sekai">I want to talk to you. Have you got a second?</PrintText>
+        <PrintText id="PT0004" name="Makoto">Sure.</PrintText>
+    </File>
+    <File name="02-2S-K02.ENG.ORS">
+        <PrintText id="PT0001" name="Class Rep">Okay, then. That's all for today's agenda.</PrintText>
+    </File>
+    <File name="02-2S-L00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Hey, I said, 'Hold on!'</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">What are you so angry about?</PrintText>
+        <PrintText id="PT0004" name="Sekai">I'm not angry.</PrintText>
+        <PrintText id="PT0005" name="Makoto">You are.</PrintText>
+        <PrintText id="PT0006" name="Sekai">If I'm angry, then I'm angry at myself. It's got nothing to do with you.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Of course it does.</PrintText>
+        <PrintText id="PT0008" name="Sekai">...</PrintText>
+        <PrintText id="PT0009" name="Makoto">You're angry about what happened at lunch, right? I'm sorry I couldn't say it. I'll be sure to tell her tomorrow, okay?</PrintText>
+        <PrintText id="PT0010" name="Sekai">You don't have it in you.</PrintText>
+        <PrintText id="PT0011" name="Makoto">I will.</PrintText>
+        <PrintText id="PT0012" name="Sekai">You won't.</PrintText>
+        <PrintText id="PT0013" name="Makoto">I said I will.</PrintText>
+        <PrintText id="PT0014" name="Sekai">I'm telling you, you won't.</PrintText>
+        <PrintText id="PT0015" name="Sekai">...Because you still love her.</PrintText>
+        <PrintText id="PT0016" name="Makoto">Wha-?!</PrintText>
+        <PrintText id="PT0017" name="Sekai">And yet, I still can't give up on you, and that makes me angry at myself. It's not your fault. I'm sorry. Goodbye.</PrintText>
+        <PrintText id="PT0018" name="Makoto">Sekai...</PrintText>
+    </File>
+    <File name="02-2S-L01.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Makoto-kun, were you waiting for me?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I'm sorry'" sel2="'Let's go home together'"/>
+    </File>
+    <File name="02-2S-L02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I'm sorry.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">I wanted to speak with Kioura.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Ah! Y-yes, that's right. For your class event, right?</PrintText>
+        <PrintText id="PT0005" name="Makoto">Mmn... yeah.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">That's okay. I'll be leaving first, then. See you tomorrow.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Kioura.</PrintText>
+        <PrintText id="PT0008" name="Setsuna">What?</PrintText>
+        <PrintText id="PT0009" name="Makoto">I have a favor to ask.</PrintText>
+    </File>
+    <File name="02-2S-L03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Let's go home together.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Okay.</PrintText>
+    </File>
+    <File name="02-2S-L04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">What's wrong?</PrintText>
+        <PrintText id="PT0003" name="Makoto">I...</PrintText>
+        <PrintText id="PT0004" name="Setsuna">Itou?</PrintText>
+        <PrintText id="PT0005" name="Makoto">Kioura.</PrintText>
+        <PrintText id="PT0006" name="Setsuna">What are you still doing here at this hour?</PrintText>
+        <PrintText id="PT0007" name="Makoto">There's something I want to ask you.</PrintText>
+        <PrintText id="PT0008" name="Setsuna">Me?</PrintText>
+        <PrintText id="PT0009" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">Ah... y-yes, that's right. For your class event, right?</PrintText>
+        <PrintText id="PT0011" name="Makoto">...</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">That's all right. I'll be going home first, then. See you later.</PrintText>
+        <PrintText id="PT0013" name="Setsuna">Are you friends with that girl from class 4?</PrintText>
+        <PrintText id="PT0014" name="Makoto">That's none of your business.</PrintText>
+        <PrintText id="PT0015" name="Setsuna">You may be right. Since I've got no business with you, then, I'll be going home.</PrintText>
+        <PrintText id="PT0016" name="Makoto">Hey, wait! I said there was something I wanted to ask you.</PrintText>
+        <PrintText id="PT0017" name="Setsuna">None of my business.</PrintText>
+        <PrintText id="PT0018" name="Makoto">...!</PrintText>
+        <PrintText id="PT0019" name="Makoto">I-I'm sorry, I shouldn't have put it like that.</PrintText>
+        <PrintText id="PT0020" name="Makoto">...</PrintText>
+        <PrintText id="PT0021" name="Setsuna">What is it?</PrintText>
+        <PrintText id="PT0022" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0023" name="Setsuna">What did you want to ask me?</PrintText>
+        <PrintText id="PT0024" name="Makoto">O... oh, right...</PrintText>
+    </File>
+    <File name="02-2S-L05.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah... I said it...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">I finally said it... but maybe I shouldn't have. Maybe Makoto-kun is still keeping it a secret from everyone...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Well, never mind. I feel relieved now... and I'm sure Makoto-kun will forgive me.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Now, to pick up those printouts.</PrintText>
+    </File>
+    <File name="02-2S-M00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...We couldn't say it, could we?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Mmn...</PrintText>
+        <PrintText id="PT0003" name="Sekai">I was going to say it... but when I saw her face, the words just wouldn't come.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Same for me.</PrintText>
+        <PrintText id="PT0005" name="Sekai">We can't tell her, can we?</PrintText>
+        <PrintText id="PT0006" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0007" name="Sekai">After all, she's still in love with you...</PrintText>
+        <PrintText id="PT0008" name="Makoto">But I'm...!</PrintText>
+        <PrintText id="PT0009" name="Sekai">Yeah.</PrintText>
+        <PrintText id="PT0010" name="Makoto">...</PrintText>
+        <PrintText id="PT0011" name="Sekai">...</PrintText>
+        <PrintText id="PT0012" name="Sekai">I'm so in love with you... so why does it feel so bad...?</PrintText>
+        <PrintText id="PT0013" name="Makoto">...</PrintText>
+        <PrintText id="PT0014" name="Sekai">I feel... so guilty.</PrintText>
+        <PrintText id="PT0015" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0016" name="Sekai">Was it all because we couldn't say it...?</PrintText>
+        <PrintText id="PT0017" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2S-M01.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Makoto.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0003" name="Sekai">Listen...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0005" name="Sekai">...</PrintText>
+        <PrintText id="PT0006" name="Makoto">What is it?</PrintText>
+        <PrintText id="PT0007" name="Sekai">...Never mind, it's fine.</PrintText>
+        <PrintText id="PT0008" name="Makoto">What do you mean? It's not fine.</PrintText>
+        <PrintText id="PT0009" name="Sekai">It's not fine... but it's fine.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Hey...</PrintText>
+    </File>
+    <File name="02-2S-M02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">It's fine. You told me that you love me, so I trust you.</PrintText>
+        <PrintText id="PT0002" name="Makoto">You mean about what happened at lunch?</PrintText>
+        <PrintText id="PT0003" name="Sekai">I trust you. I really do... but when I see you and Katsura-san acting so cheerful like that, it worries me.</PrintText>
+        <PrintText id="PT0004" name="Sekai">It's silly, isn't it? You... you've shown me so clearly how you feel, and yet I...</PrintText>
+        <PrintText id="PT0005" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0006" name="Sekai">It's strange... I never knew that I was such a jealous person.</PrintText>
+        <PrintText id="PT0007" name="Sekai">Hey!</PrintText>
+        <PrintText id="PT0008" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0009" name="Sekai">Kiss me.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0011" name="Sekai">...Won't you?</PrintText>
+        <PrintText id="PT0012" name="Makoto">I-it's not that I won't... but why now, all of a sudden?</PrintText>
+        <PrintText id="PT0013" name="Sekai">Because I don't want to lose to Katsura-san.</PrintText>
+        <PrintText id="PT0014" name="Makoto">Lose...?</PrintText>
+        <PrintText id="PT0015" name="Sekai">After all, you did it with Katsura-san during lunch.</PrintText>
+        <PrintText id="PT0016" name="Makoto">Kiss her? No, I didn't.</PrintText>
+        <PrintText id="PT0017" name="Sekai">An indirect kiss.</PrintText>
+        <PrintText id="PT0018" name="Makoto">Indirect...?</PrintText>
+        <PrintText id="PT0019" name="Sekai">Both of you drank out of the cup on her thermos.</PrintText>
+        <PrintText id="PT0020" name="Makoto">O... oh! Huh?</PrintText>
+        <PrintText id="PT0021" name="Sekai">I know that you don't even notice things like that, but it bothered me.</PrintText>
+        <PrintText id="PT0022" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0023" name="Sekai">If you and her are going to share an indirect kiss, then I...</PrintText>
+        <PrintText id="PT0024" name="Makoto">Okay, I understand.</PrintText>
+        <PrintText id="PT0025" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0026" name="Sekai">Haah...</PrintText>
+        <PrintText id="PT0027" name="Makoto">Nn...</PrintText>
+        <PrintText id="PT0028" name="Sekai">We did it, didn't we? We kissed.</PrintText>
+        <PrintText id="PT0029" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0030" name="Sekai">I love you.</PrintText>
+    </File>
+    <File name="02-2S-M03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">I love you, Makoto.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0003" name="Sekai">I love you... even if you love someone else.</PrintText>
+        <PrintText id="PT0004" name="Makoto">...</PrintText>
+        <PrintText id="PT0005" name="Sekai">I love you.</PrintText>
+        <PrintText id="PT0006" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0007" name="Makoto">I'm sorry... for making you worry.</PrintText>
+        <PrintText id="PT0008" name="Sekai">Eh...?</PrintText>
+        <PrintText id="PT0009" name="Makoto">I love you.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0011" name="Makoto">I love you, Sekai.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Uh-huh...</PrintText>
+    </File>
+    <File name="02-2S-N00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">I was a little surprised... since I didn't think that you'd be waiting for me.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">I really had fun at lunchtime.</PrintText>
+        <PrintText id="PT0005" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Come to think of it, Saionji-san looked a little down today.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Yeah, you're right.</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Maybe she's got a cold. It's been chilly these last two or three days.</PrintText>
+        <PrintText id="PT0009" name="Makoto">...</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">If she's absent tomorrow, perhaps we should go and visit her. After all, there's no student rep meeting...</PrintText>
+        <PrintText id="PT0011" name="Makoto">What did you just say?</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Ah, yes. There's no student rep meeting tomorrow. If you like, after class, we could...</PrintText>
+        <PrintText id="PT0013" name="Makoto">No, before that.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Eh? I said maybe we could go and visit her...</PrintText>
+        <PrintText id="PT0015" name="Makoto">Yeah, that's it.</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Um... well, it's not as if I insist on going. If you're free tomorrow too, we could go somewhere and...</PrintText>
+        <PrintText id="PT0017" name="Makoto">You know where Sekai lives, don't you?</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">I've never been there, but I know the address.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Tell me.</PrintText>
+        <PrintText id="PT0020" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0021" name="Makoto">Please.</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">U... um...</PrintText>
+        <PrintText id="PT0023" name="Makoto">I'm worried about how she looked at lunchtime... please.</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">Haah... well, then...</PrintText>
+        <PrintText id="PT0025" name="Kotonoha">Okay, see you tomorrow.</PrintText>
+        <PrintText id="PT0026" name="Makoto">Sekai...</PrintText>
+    </File>
+    <File name="02-2S-N01.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...</PrintText>
+    </File>
+    <File name="02-2S-N02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0003" name="Sekai">...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Yeah.</PrintText>
+    </File>
+    <File name="02-2S-O00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai's Mother">Sekai.</PrintText>
+        <PrintText id="PT0002" name="Sekai's Mother">What's wrong? Were you sleeping? It's almost time for dinner, you know.</PrintText>
+        <PrintText id="PT0003" name="Sekai">I don't want any. I'm not hungry.</PrintText>
+        <PrintText id="PT0004" name="Sekai's Mother">That's not why I'm here. You've got a guest.</PrintText>
+        <PrintText id="PT0005" name="Sekai">I don't want to see them.</PrintText>
+        <PrintText id="PT0006" name="Sekai's Mother">Now, we can't have that.</PrintText>
+        <PrintText id="PT0007" name="Sekai">Tell Setsuna I'm not feeling well. I'll tell her all about it tomorrow.</PrintText>
+        <PrintText id="PT0008" name="Sekai's Mother">It's not Se-chan.</PrintText>
+        <PrintText id="PT0009" name="Sekai">Nanami?</PrintText>
+        <PrintText id="PT0010" name="Sekai's Mother">It's not her, either.</PrintText>
+        <PrintText id="PT0011" name="Sekai">Who is it?</PrintText>
+        <PrintText id="PT0012" name="Sekai's Mother">How should I know?</PrintText>
+        <PrintText id="PT0013" name="Sekai">Eh?</PrintText>
+        <PrintText id="PT0014" name="Sekai's Mother">It's a boy.</PrintText>
+    </File>
+    <File name="02-2S-OP1.ENG.ORS"/>
+    <File name="02-2S-P00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Sorry. I know it's late.</PrintText>
+        <PrintText id="PT0003" name="Sekai">...</PrintText>
+        <PrintText id="PT0004" name="Makoto">Listen, I...</PrintText>
+        <PrintText id="PT0005" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0006" name="Makoto">I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'About you...'" sel2="'About Kotonoha...'"/>
+    </File>
+    <File name="02-2S-P01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Sekai, you...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0003" name="Makoto">I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Maybe I should forget about you'" sel2="'You mean more to me than anyone'"/>
+    </File>
+    <File name="02-2S-P02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">About Kotonoha...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0003" name="Makoto">I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'I don't feel anything for her'" sel2="'I can't bring myself to hate her'"/>
+    </File>
+    <File name="02-2S-P03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">...I'm going now.</PrintText>
+        <PrintText id="PT0004" name="Sekai">...I'm sorry.</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+        <PrintText id="PT0006" name="Sekai">I'm such a jealous person... it's so embarrassing...</PrintText>
+        <PrintText id="PT0007" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0008" name="Sekai">You told me that you loved me... and yet when I saw you at lunchtime, I felt so worried.</PrintText>
+        <PrintText id="PT0009" name="Makoto">That's...</PrintText>
+        <PrintText id="PT0010" name="Sekai">I know... I know, but...</PrintText>
+        <PrintText id="PT0011" name="Makoto">Trust me.</PrintText>
+        <PrintText id="PT0012" name="Sekai">Yeah... I trust you.</PrintText>
+        <PrintText id="PT0013" name="Makoto">I love you.</PrintText>
+        <PrintText id="PT0014" name="Sekai">Yes. I love you too...</PrintText>
+    </File>
+    <File name="02-2S-P04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Maybe I should just forget about you.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">I...</PrintText>
+    </File>
+    <File name="02-2S-P05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">You mean more to me than anyone.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">I love you more than anyone else.</PrintText>
+        <PrintText id="PT0004" name="Sekai">M... Makoto...</PrintText>
+        <PrintText id="PT0005" name="Makoto">How can I get you to believe me?</PrintText>
+        <PrintText id="PT0006" name="Sekai">I don't know...</PrintText>
+    </File>
+    <File name="02-2S-P06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I don't feel anything for her.</PrintText>
+        <PrintText id="PT0002" name="Sekai">That's a lie.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Trust me.</PrintText>
+        <PrintText id="PT0004" name="Sekai">That's a lie. You might like me too, but your feelings for Katsura-san haven't just disappeared.</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2S-P07.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">I can't bring myself to hate her.</PrintText>
+        <PrintText id="PT0002" name="Sekai">...</PrintText>
+        <PrintText id="PT0003" name="Makoto">But you're the one I love the most, Sekai.</PrintText>
+        <PrintText id="PT0004" name="Sekai">...</PrintText>
+        <PrintText id="PT0005" name="Makoto">That much is true, I swear. Believe me.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Makoto...</PrintText>
+    </File>
+    <File name="02-2S-Q00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Makoto-kun.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0003" name="Kotonoha">Good morning.</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Morning!'" sel2="null"/>
+    </File>
+    <File name="02-2S-Q01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Morning!</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Ufufu...</PrintText>
+    </File>
+    <File name="02-2S-Q02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...Morning.</PrintText>
+    </File>
+    <File name="02-2S-R00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Morning.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0003" name="Sekai">Hmm? What's wrong?</PrintText>
+    </File>
+    <File name="02-2S-R01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...It's nothing. Morning.</PrintText>
+        <PrintText id="PT0002" name="Sekai">?</PrintText>
+    </File>
+    <File name="02-2S-R02.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Morning.</PrintText>
+        <PrintText id="PT0002" name="Sekai">Eheheh...</PrintText>
+    </File>
+    <File name="02-2S-R03.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Sekai... despite everything, she still loves me.</PrintText>
+        <PrintText id="PT0002" name="Makoto">I decided that I'd be true to my own feelings, too.</PrintText>
+        <PrintText id="PT0003" name="Makoto">And yet, I still can't tell Kotonoha...</PrintText>
+        <PrintText id="PT0004" name="Makoto">I... I...</PrintText>
+        <SetSELECT id="SEL0001" sel1="'Don't I love Sekai?'" sel2="'Am I afraid Kotonoha will hate me?'"/>
+    </File>
+    <File name="02-2S-R04.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Don't I love Sekai?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Of course I do.</PrintText>
+        <PrintText id="PT0003" name="Makoto">And yet, Kotonoha and I...</PrintText>
+    </File>
+    <File name="02-2S-R05.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Am I afraid Kotonoha will hate me?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Maybe...</PrintText>
+        <PrintText id="PT0003" name="Makoto">After all, the girl from the morning train is finally smiling my way...</PrintText>
+        <PrintText id="PT0004" name="Makoto">But Sekai and I...</PrintText>
+    </File>
+    <File name="02-2S-R06.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">What should I do...?</PrintText>
+    </File>
+    <File name="02-2S-R07.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Uh-huh.</PrintText>
+        <PrintText id="PT0002" name="Makoto">I... want you to come with me today too. I'll make sure I...</PrintText>
+        <PrintText id="PT0003" name="Makoto">Sekai.</PrintText>
+        <PrintText id="PT0004" name="Sekai">...Okay.</PrintText>
+    </File>
+    <File name="02-2S-R08.ENG.ORS">
+        <PrintText id="PT0001" name="Otome">Katsura.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Yes?</PrintText>
+        <PrintText id="PT0003" name="Otome">Have you got a minute? I want to talk to you about the school festival.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Eh...?</PrintText>
+        <PrintText id="PT0005" name="Otome">About how the haunted house is going to work...</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">U... um...</PrintText>
+        <PrintText id="PT0007" name="Otome">What? Do you have something you need to attend to?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Yes, sort of...</PrintText>
+        <PrintText id="PT0009" name="Minami">I'll bet it's nothing important.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">...</PrintText>
+        <PrintText id="PT0011" name="Kumi">Yeah, she's got her lunchbox out. Isn't she just about to go and have lunch somewhere?</PrintText>
+        <PrintText id="PT0012" name="Natsumi">Ehhh? You don't want to talk just because you're going to have lunch?</PrintText>
+        <PrintText id="PT0013" name="Minami">Is it a guy?</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">No, um...</PrintText>
+        <PrintText id="PT0015" name="Kumi">It's a guy.</PrintText>
+        <PrintText id="PT0016" name="Minami">She's keeping her boyfriend waiting.</PrintText>
+        <PrintText id="PT0017" name="Natsumi">No wonder she doesn't have time to listen to us.</PrintText>
+        <PrintText id="PT0018" name="Minami">What's he like?</PrintText>
+        <PrintText id="PT0019" name="Natsumi">What's the point in asking about her boyfriend?</PrintText>
+        <PrintText id="PT0020" name="Minami">Yeah, I guess you're right. If he actually wants to go out with Katsura, then...</PrintText>
+        <PrintText id="PT0021" name="Otome">Katsura. Is that true? Is your boyfriend more important than the class event?</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">N-no, that's... not it.</PrintText>
+        <PrintText id="PT0023" name="Otome">Then you've got time, right?</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">Y-yes.</PrintText>
+        <PrintText id="PT0025" name="Otome">You don't mind, do you? It won't take long.</PrintText>
+        <PrintText id="PT0026" name="Kotonoha">...Okay.</PrintText>
+    </File>
+    <File name="02-2S-S00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">...</PrintText>
+        <PrintText id="PT0002" name="Sekai">Hey, Makoto.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0004" name="Sekai">...There's no point in forcing ourselves to tell her, is there?</PrintText>
+        <PrintText id="PT0005" name="Makoto">...</PrintText>
+        <PrintText id="PT0006" name="Sekai">I thought we had to tell her together, too... but we can't.</PrintText>
+        <PrintText id="PT0007" name="Makoto">You think so...?</PrintText>
+        <PrintText id="PT0008" name="Sekai">We could tell her if the mood was right, but I don't think we need to force ourselves.</PrintText>
+        <PrintText id="PT0009" name="Makoto">But...</PrintText>
+        <PrintText id="PT0010" name="Sekai">I know how you feel... and I don't want to hurt Katsura-san, either..</PrintText>
+        <PrintText id="PT0011" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0012" name="Sekai">But it can't be helped.</PrintText>
+        <PrintText id="PT0013" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2S-T00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Katsura-san isn't here yet, is she?</PrintText>
+        <PrintText id="PT0002" name="Makoto">Phew...</PrintText>
+        <PrintText id="PT0003" name="Sekai">Maybe class 4 is a little late.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Yeah, maybe...</PrintText>
+        <PrintText id="PT0005" name="Sekai">Hehe...</PrintText>
+        <PrintText id="PT0006" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0007" name="Sekai">You're so warm.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Hey, you'd better move away soon. It won't be long before...</PrintText>
+        <PrintText id="PT0009" name="Sekai">Uh-uh. Not until Katsura-san comes.</PrintText>
+        <PrintText id="PT0010" name="Makoto">But if she sees us like this...</PrintText>
+        <PrintText id="PT0011" name="Sekai">We can tell right away from here if the door opens.</PrintText>
+        <PrintText id="PT0012" name="Makoto">Hmm...</PrintText>
+        <PrintText id="PT0013" name="Sekai">Nn...</PrintText>
+        <PrintText id="PT0014" name="Makoto">Wah!</PrintText>
+        <PrintText id="PT0015" name="Sekai">Ah...</PrintText>
+        <PrintText id="PT0016" name="Kotonoha">Makoto-kun?</PrintText>
+        <PrintText id="PT0017" name="Makoto">H-hi.</PrintText>
+        <PrintText id="PT0018" name="Kotonoha">Makoto-kun...</PrintText>
+        <PrintText id="PT0019" name="Makoto">...Kotonoha?</PrintText>
+        <PrintText id="PT0020" name="Kotonoha">Makoto-kun!</PrintText>
+        <PrintText id="PT0021" name="Makoto">Wah!</PrintText>
+        <PrintText id="PT0022" name="Kotonoha">Makoto-kuuun...</PrintText>
+        <PrintText id="PT0023" name="Makoto">...I see, so that's what happened.</PrintText>
+        <PrintText id="PT0024" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0025" name="Makoto">Class 4 really have to get their act together, don't they?</PrintText>
+        <PrintText id="PT0026" name="Makoto">The school festival isn't that far away, but they're still making major changes.</PrintText>
+        <PrintText id="PT0027" name="Kotonoha">But... they don't listen to anything that I say.</PrintText>
+        <PrintText id="PT0028" name="Makoto">And it's not as if we can help either, since we're from the class next door... right, Sekai?</PrintText>
+        <PrintText id="PT0029" name="Sekai">Yeah, that's right.</PrintText>
+        <PrintText id="PT0030" name="Kotonoha">That's all right... I'm just glad I have someone to talk to about it.</PrintText>
+        <PrintText id="PT0031" name="Makoto">Who's this bossy guy, anyway?</PrintText>
+        <PrintText id="PT0032" name="Kotonoha">Eh...?</PrintText>
+        <PrintText id="PT0033" name="Makoto">I've got a friend in class 4, so maybe I can try talking to her.</PrintText>
+        <PrintText id="PT0034" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0035" name="Makoto">She's in the girls' basketball club, but we're from the same junior high school, so it's easy for me to talk to her...</PrintText>
+        <PrintText id="PT0036" name="Makoto">I think she'd hear us out.</PrintText>
+        <PrintText id="PT0037" name="Kotonoha">Girls' basketball...?</PrintText>
+        <PrintText id="PT0038" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0039" name="Kotonoha">N-no, it's nothing.</PrintText>
+        <PrintText id="PT0040" name="Makoto">How about it? She could help you out.</PrintText>
+        <PrintText id="PT0041" name="Kotonoha">It's all right. I feel better just telling you about it.</PrintText>
+        <PrintText id="PT0042" name="Makoto">Well, that's all right, then.</PrintText>
+        <PrintText id="PT0043" name="Kotonoha">Actually, I wasn't planning on complaining to you like this. Instead...</PrintText>
+        <PrintText id="PT0044" name="Makoto">Instead?</PrintText>
+        <PrintText id="PT0045" name="Kotonoha">Um... this weekend, on Saturday or Sunday... are you free?</PrintText>
+        <PrintText id="PT0046" name="Makoto">Huh...? Yeah.</PrintText>
+        <PrintText id="PT0047" name="Kotonoha">I know we've been there quite a few times lately... but would you like to see another movie?</PrintText>
+        <PrintText id="PT0048" name="Makoto">Ehh?!</PrintText>
+        <PrintText id="PT0049" name="Kotonoha">My mother gave me some tickets. Here.</PrintText>
+        <PrintText id="PT0050" name="Makoto">Let's see... a romance, huh? Looks like these expire today.</PrintText>
+        <PrintText id="PT0051" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0052" name="Makoto">I see...</PrintText>
+        <PrintText id="PT0053" name="Kotonoha">I know it's yet another movie, but since we've got the tickets...</PrintText>
+        <PrintText id="PT0054" name="Makoto">Yeah...</PrintText>
+    </File>
+    <File name="02-2S-T01.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Ah... sorry. Come to think of it, I can't go today.</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Makoto">I just remembered. My sister's coming over today.</PrintText>
+        <PrintText id="PT0004" name="Kotonoha">Your sister... is coming?</PrintText>
+        <PrintText id="PT0005" name="Makoto">Our parents are divorced, and my little sister Itaru was taken in by my dad.</PrintText>
+        <PrintText id="PT0006" name="Makoto">They come just once a month to see my mom.</PrintText>
+        <PrintText id="PT0007" name="Kotonoha">I see.</PrintText>
+        <PrintText id="PT0008" name="Makoto">It's just Mom who can only see her once a month. I can go and see her any time.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Still, we made a promise that when she comes over, we'd all have dinner together.</PrintText>
+        <PrintText id="PT0010" name="Kotonoha">I see... well, I guess there's no helping it, then.</PrintText>
+        <PrintText id="PT0011" name="Makoto">Sorry.</PrintText>
+        <PrintText id="PT0012" name="Kotonoha">Not at all! I had no idea. Please take good care of your sister.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Sure.</PrintText>
+    </File>
+    <File name="02-2S-T02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">That sounds nice.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Eh?!</PrintText>
+        <PrintText id="PT0003" name="Sekai">You should go, Makoto.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Ah... but...</PrintText>
+        <PrintText id="PT0005" name="Sekai">They're showing trailers for this movie on TV right now. It's got this nice feel, with a sad piano melody and everything.</PrintText>
+        <PrintText id="PT0006" name="Kotonoha">Yes, that's right. They say it's a remake of an old movie, but Mom said it was really good.</PrintText>
+        <PrintText id="PT0007" name="Sekai">Your mom's cheering for you and Makoto, isn't she?</PrintText>
+        <PrintText id="PT0008" name="Kotonoha">Yes.</PrintText>
+        <PrintText id="PT0009" name="Makoto">...</PrintText>
+        <PrintText id="PT0010" name="Sekai">Come on, what are you hesitating for? You're free on Saturday, right?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Yeah, but...</PrintText>
+        <PrintText id="PT0012" name="Sekai">Then it should be fine. There, it's settled.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0014" name="Kotonoha">Eheheh...</PrintText>
+        <PrintText id="PT0015" name="Kotonoha">Oh, no! I've got to get back to class early for homeroom next period! I'll be going on ahead!</PrintText>
+        <PrintText id="PT0016" name="Makoto">Sure.</PrintText>
+        <PrintText id="PT0017" name="Sekai">Phew... she was sure in a hurry.</PrintText>
+        <PrintText id="PT0018" name="Makoto">...Why?</PrintText>
+        <PrintText id="PT0019" name="Sekai">Hmm?</PrintText>
+        <PrintText id="PT0020" name="Makoto">Why did you tell me to go on that date?</PrintText>
+        <PrintText id="PT0021" name="Sekai">...</PrintText>
+        <PrintText id="PT0022" name="Makoto">The one I really love is...</PrintText>
+        <PrintText id="PT0023" name="Sekai">You mustn't say it.</PrintText>
+        <PrintText id="PT0024" name="Makoto">Sekai!</PrintText>
+        <PrintText id="PT0025" name="Sekai">You mustn't say it anymore...</PrintText>
+        <PrintText id="PT0026" name="Makoto">But...</PrintText>
+        <PrintText id="PT0027" name="Sekai">Katsura-san loves you from the bottom of her heart... I can't just walk in and take you away from her.</PrintText>
+        <PrintText id="PT0028" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0029" name="Sekai">You've been unsure of yourself since this morning, haven't you?</PrintText>
+        <PrintText id="PT0030" name="Makoto">That's...</PrintText>
+        <PrintText id="PT0031" name="Sekai">The truth is, you're still in love with Katsura-san.</PrintText>
+        <PrintText id="PT0032" name="Makoto">...</PrintText>
+        <PrintText id="PT0033" name="Sekai">That's why... we... we can't be together after all.</PrintText>
+        <PrintText id="PT0034" name="Setsuna">From: Setsuna\nTitle: Sorry</PrintText>
+        <PrintText id="PT0035" name="Setsuna">"Sorry to be writing an email like this instead of talking to you in person. There's something I have to tell you, but it's just so hard for me to say."</PrintText>
+        <PrintText id="PT0036" name="Setsuna">"I'm sorry.\nI'm going to be transferring to another school,"</PrintText>
+        <PrintText id="PT0037" name="Setsuna">"somewhere far away from here."</PrintText>
+        <PrintText id="PT0038" name="Sekai">Eh...?!</PrintText>
+    </File>
+    <File name="02-2S-T03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Nn... haah...</PrintText>
+        <PrintText id="PT0002" name="Makoto">...Hey.</PrintText>
+        <PrintText id="PT0003" name="Sekai">Nn... what?</PrintText>
+        <PrintText id="PT0004" name="Makoto">Were you talking with Kioura just then about spending the night away from home?</PrintText>
+        <PrintText id="PT0005" name="Sekai">No... about lunchtime.</PrintText>
+        <PrintText id="PT0006" name="Makoto">Lunchtime?</PrintText>
+        <PrintText id="PT0007" name="Sekai">...</PrintText>
+        <PrintText id="PT0008" name="Makoto">What is it?</PrintText>
+        <PrintText id="PT0009" name="Sekai">...She said that Katsura-san's busy with the student council, so she's going to be late.</PrintText>
+        <PrintText id="PT0010" name="Sekai">I asked her to send me an e-mail when the meeting finishes.</PrintText>
+        <PrintText id="PT0011" name="Makoto">Why?</PrintText>
+        <PrintText id="PT0012" name="Sekai">That way... we won't have to stop, and we'll still know when she's coming.</PrintText>
+        <PrintText id="PT0013" name="Makoto">I see... this way, we can keep going for as long as possible.</PrintText>
+        <PrintText id="PT0014" name="Sekai">That's right.</PrintText>
+    </File>
+    <File name="02-2S-T04.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Fwah...! No... if I take any more off, when Katsura-san comes...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Just a little more... okay...? Nnn!</PrintText>
+        <PrintText id="PT0003" name="Sekai">Ah... haah! ...No... we did it so many times yesterday, so why...? Makoto...!</PrintText>
+        <PrintText id="PT0004" name="Makoto">No matter how many times we do it... it isn't nearly enough... more... I want more of you, Sekai.</PrintText>
+        <PrintText id="PT0005" name="Sekai">Nn...! Makoto...</PrintText>
+        <PrintText id="PT0006" name="Makoto">Sekai...!</PrintText>
+    </File>
+    <File name="02-2S-T05.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Makoto-kun!</PrintText>
+        <PrintText id="PT0002" name="Makoto">Ah...</PrintText>
+    </File>
+    <File name="02-2S-U00.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">"So, you've got a little sister."</PrintText>
+        <PrintText id="PT0002" name="Makoto">"Her name's 'Itaru', with the same character as my dad's name. Their name plate ends up looking pretty confusing. She's really small and cute, though!"</PrintText>
+        <PrintText id="PT0003" name="Sekai">"That's so cool. I'm a single child, so I've always wanted a little sister!"</PrintText>
+        <PrintText id="PT0004" name="Makoto">"The last time she came over was the week before last, but this week, not even mom's home, since she's busy with work."</PrintText>
+        <PrintText id="PT0005" name="Sekai">"Did you lie to her?"</PrintText>
+        <PrintText id="PT0006" name="Makoto">"I didn't know how to turn her down."</PrintText>
+        <PrintText id="PT0007" name="Sekai">"If you see Katsura-san on the weekend, she's going to find out."</PrintText>
+        <PrintText id="PT0008" name="Makoto">"She's behaving herself at home."</PrintText>
+        <PrintText id="PT0009" name="Sekai">"Can I come over to your place?"</PrintText>
+        <PrintText id="PT0010" name="Sekai">"If it's my fault that you have to stay at home, I'll keep you company."</PrintText>
+        <PrintText id="PT0011" name="Makoto">"No one's going to be home today."</PrintText>
+        <PrintText id="PT0012" name="Makoto">"Sure."</PrintText>
+    </File>
+    <File name="02-2S-U01.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...</PrintText>
+        <PrintText id="PT0002" name="Natsumi">And then, you hold out your hand like this and invite them.</PrintText>
+        <PrintText id="PT0003" name="Kumi">What, the girl does the inviting? Are you serious?</PrintText>
+        <PrintText id="PT0004" name="Natsumi">Totally serious. If the boy takes your hand, then it means it's okay to confess to him.</PrintText>
+        <PrintText id="PT0005" name="Minami">Uwah!</PrintText>
+        <PrintText id="PT0006" name="Natsumi">But first, you've got to have someone to invite.</PrintText>
+        <PrintText id="PT0007" name="Kumi">What are you talking about? It's not as if you've got someone either.</PrintText>
+        <PrintText id="PT0008" name="Minami">Oh, come on. You know that none of us do.</PrintText>
+        <PrintText id="PT0009" name="Otome">...</PrintText>
+        <PrintText id="PT0010" name="Kumi">Ah, Otome-chan's got someone. It's written all over her face.</PrintText>
+        <PrintText id="PT0011" name="Otome">Eh?</PrintText>
+        <PrintText id="PT0012" name="Natsumi">No way?! Do you, Otome? Have someone to invite, that is?</PrintText>
+        <PrintText id="PT0013" name="Otome">W-well, kind of, but... you can still try inviting them even if you know it's hopeless, right?</PrintText>
+        <PrintText id="PT0014" name="Natsumi">Sure.</PrintText>
+        <PrintText id="PT0015" name="Otome">In that case, I was... kind of thinking of maybe just asking, even though I know I'll just be rejected...</PrintText>
+        <PrintText id="PT0016" name="Kumi">Fwaah...</PrintText>
+        <PrintText id="PT0017" name="Minami">Hey, who is it? Who are you aiming for, Otome?</PrintText>
+        <PrintText id="PT0018" name="Otome">'Aiming', huh...? Well, he doesn't even talk to me. It really is a hopeless case.</PrintText>
+        <PrintText id="PT0019" name="Minami">Come on, tell us!</PrintText>
+        <PrintText id="PT0020" name="Otome">No way, I'm not saying.</PrintText>
+        <PrintText id="PT0021" name="Natsumi">I wanna know!</PrintText>
+        <PrintText id="PT0022" name="Minami">Hey! Give us a hint. We'll try to guess.</PrintText>
+        <PrintText id="PT0023" name="Otome">Forget it.</PrintText>
+        <PrintText id="PT0024" name="Minami">Just a hint. Come on!</PrintText>
+        <PrintText id="PT0025" name="Otome">...</PrintText>
+        <PrintText id="PT0026" name="Kumi">We'd sure love a hint.</PrintText>
+        <PrintText id="PT0027" name="Otome">...We went to the same junior high school.</PrintText>
+        <PrintText id="PT0028" name="Natsumi">Eh?! A boy from our class?</PrintText>
+        <PrintText id="PT0029" name="Otome">No.</PrintText>
+        <PrintText id="PT0030" name="Kumi">Fwaah! I wonder who it is? Who could it be, Natsumi-chan?</PrintText>
+        <PrintText id="PT0031" name="Natsumi">Let's see... there aren't that many boys here from Harami High. Ah, I know. It's that guy from class 3...</PrintText>
+        <PrintText id="PT0032" name="Otome">Waaah! Don't pry any further! Sheesh!</PrintText>
+        <PrintText id="PT0033" name="Minami">What are you looking at?</PrintText>
+        <PrintText id="PT0034" name="Kotonoha">Eh?! U... um... I'm sorry.</PrintText>
+        <PrintText id="PT0035" name="Otome">What is it?</PrintText>
+        <PrintText id="PT0036" name="Minami">Katsura's been looking at us all this time.</PrintText>
+        <PrintText id="PT0037" name="Otome">Katsura?</PrintText>
+        <PrintText id="PT0038" name="Kotonoha">I wasn't really looking... it's homeroom, so I thought I should join in the conversation...</PrintText>
+        <PrintText id="PT0039" name="Minami">What are you talking about? We're the only ones who are talking.</PrintText>
+        <PrintText id="PT0040" name="Kotonoha">...I'm sorry.</PrintText>
+        <PrintText id="PT0041" name="Natsumi">What's she apologizing for?</PrintText>
+        <PrintText id="PT0042" name="Otome">...</PrintText>
+        <PrintText id="PT0043" name="Kotonoha">I'm sorry...</PrintText>
+        <PrintText id="PT0044" name="Otome">Aww, sheesh... after hearing this nonsense from her, I don't feel like doing anything.</PrintText>
+        <PrintText id="PT0045" name="Kotonoha">Eh?!</PrintText>
+        <PrintText id="PT0046" name="Otome">You should go and put on that haunted house by yourself. No one's interested in something like that nowadays.</PrintText>
+        <PrintText id="PT0047" name="Kumi">Ehh? I was looking forward to it.</PrintText>
+        <PrintText id="PT0048" name="Natsumi">Shh!</PrintText>
+        <PrintText id="PT0049" name="Otome">You know, I don't think we can really help you.</PrintText>
+        <PrintText id="PT0050" name="Minami">Yeah.</PrintText>
+        <PrintText id="PT0051" name="Kotonoha">But...</PrintText>
+        <PrintText id="PT0052" name="Otome">We can't possibly work under someone who flashes her eyes at boys all day.</PrintText>
+        <PrintText id="PT0053" name="Natsumi">Yeah, yeah.</PrintText>
+        <PrintText id="PT0054" name="Kotonoha">I haven't been flashing my eyes at anyone.</PrintText>
+        <PrintText id="PT0055" name="Otome">Do you really think no one's looking?</PrintText>
+        <PrintText id="PT0056" name="Kotonoha">I really...</PrintText>
+        <PrintText id="PT0057" name="Otome">I saw you making a move on Itou from class 3, okay?</PrintText>
+        <PrintText id="PT0058" name="Kotonoha">Ah!</PrintText>
+        <PrintText id="PT0059" name="Otome">See?</PrintText>
+        <PrintText id="PT0060" name="Otome">I hate to ask this, but would you just keep away from Itou?</PrintText>
+        <PrintText id="PT0061" name="Otome">If you're willing to work seriously without trying to pick up boys from the class next door, then we'll help.</PrintText>
+        <PrintText id="PT0062" name="Kumi">Itou's from Harami High, isn't he? That means...</PrintText>
+        <PrintText id="PT0063" name="Natsumi">Shh!</PrintText>
+        <PrintText id="PT0064" name="Kumi">I see. So the boy Otome-chan likes is...</PrintText>
+        <PrintText id="PT0065" name="Natsumi">Shhh!</PrintText>
+        <PrintText id="PT0066" name="Kotonoha">You like Makoto-kun, don't you?</PrintText>
+        <PrintText id="PT0067" name="Otome">Wha-?! That's not what I'm saying at all!</PrintText>
+        <PrintText id="PT0068" name="Kotonoha">Isn't it? Isn't that the reason why you're lashing out at me?</PrintText>
+        <PrintText id="PT0069" name="Otome">I'm telling you, that's not it!</PrintText>
+        <PrintText id="PT0070" name="Kotonoha">I think it's unfair for you to hide behind something like that.</PrintText>
+        <PrintText id="PT0071" name="Otome">Katsura!</PrintText>
+        <PrintText id="PT0072" name="Kotonoha">Makoto-kun and I are going out.</PrintText>
+        <PrintText id="PT0073" name="Otome">Eh?!</PrintText>
+        <PrintText id="PT0074" name="Kotonoha">We started going out after he confessed to me, so I didn't 'flash my eyes' at him or anything, either.</PrintText>
+        <PrintText id="PT0075" name="Otome">...</PrintText>
+        <PrintText id="PT0076" name="Kotonoha">I understand that you like him, but taking it out on me won't help you.</PrintText>
+        <PrintText id="PT0077" name="Otome">...</PrintText>
+        <PrintText id="PT0078" name="Minami">W-wait, Otome...!</PrintText>
+        <PrintText id="PT0079" name="Kotonoha">Please excuse me. I'm going to make some printouts for the student council.</PrintText>
+    </File>
+    <File name="02-2S-U02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...I'll come at seven, okay?</PrintText>
+        <PrintText id="PT0002" name="Makoto">All right.</PrintText>
+        <PrintText id="PT0003" name="Setsuna">Sekai, let's go home together. Hikari and the others wanted to meet up at Pure Burger.</PrintText>
+        <PrintText id="PT0004" name="Sekai">Sorry, I've got something to do.</PrintText>
+        <PrintText id="PT0005" name="Setsuna">I see.</PrintText>
+        <PrintText id="PT0006" name="Sekai">Hey, Setsuna.</PrintText>
+        <PrintText id="PT0007" name="Setsuna">Uh-huh.</PrintText>
+        <PrintText id="PT0008" name="Sekai">I've got a little favor to ask.</PrintText>
+    </File>
+    <File name="02-2S-U03.ENG.ORS">
+        <PrintText id="PT0001" name="Class Rep">There aren't enough copies over there. Oh, and send those desks back to the equipment room.</PrintText>
+        <PrintText id="PT0002" name="Setsuna">Um...</PrintText>
+        <PrintText id="PT0003" name="Class Rep">Yes?</PrintText>
+        <PrintText id="PT0004" name="Setsuna">Has the rep from class 4, first year come yet?</PrintText>
+        <PrintText id="PT0005" name="Class Rep">She came in, finished up quickly and then left. It looked like she was in a hurry.</PrintText>
+        <PrintText id="PT0006" name="Setsuna">Ah... thank you.</PrintText>
+    </File>
+    <File name="02-2S-V00.ENG.ORS">
+        <PrintText id="PT0001" name="Otome">Ah...</PrintText>
+        <PrintText id="PT0002" name="Makoto">Hey, Katou. Heading off to club activities?</PrintText>
+        <PrintText id="PT0003" name="Otome">Y-yeah...</PrintText>
+        <PrintText id="PT0004" name="Makoto">What's wrong? You look down.</PrintText>
+        <PrintText id="PT0005" name="Otome">Not really.</PrintText>
+        <PrintText id="PT0006" name="Makoto">Yeah? Well, see you.</PrintText>
+        <PrintText id="PT0007" name="Otome">Ah, Itou!</PrintText>
+        <PrintText id="PT0008" name="Makoto">What is it?</PrintText>
+        <PrintText id="PT0009" name="Otome">Itou, are you... no, forget it.</PrintText>
+        <PrintText id="PT0010" name="Makoto">Hmn? Well, see you later, then. Good luck with your club.</PrintText>
+        <PrintText id="PT0011" name="Otome">Yeah.</PrintText>
+    </File>
+    <File name="02-2S-W00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">!</PrintText>
+    </File>
+    <File name="02-2S-W01.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">...I'm here.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Hi.</PrintText>
+    </File>
+    <File name="02-2S-W02.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">So, this is your house.</PrintText>
+        <PrintText id="PT0002" name="Makoto">Stop staring at everything.</PrintText>
+        <PrintText id="PT0003" name="Sekai">Heheh...</PrintText>
+        <PrintText id="PT0004" name="Makoto">So... are things going to be okay at your house?</PrintText>
+        <PrintText id="PT0005" name="Sekai">Why?</PrintText>
+        <PrintText id="PT0006" name="Makoto">Don't you have a curfew or something?</PrintText>
+        <PrintText id="PT0007" name="Sekai">It's okay. Officially, I'm staying overnight at Setsuna's house.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Hey, hey..</PrintText>
+        <PrintText id="PT0009" name="Sekai">We always have sleepovers at each other's houses, so there's no need to get permission from my mom or hers.</PrintText>
+        <PrintText id="PT0010" name="Makoto">So...</PrintText>
+        <PrintText id="PT0011" name="Sekai">I can stay for the night.</PrintText>
+        <PrintText id="PT0012" name="Makoto">Okay.</PrintText>
+    </File>
+    <File name="02-2S-W03.ENG.ORS">
+        <PrintText id="PT0001" name="Sekai">Wow... this is a surprise.</PrintText>
+        <PrintText id="PT0002" name="Makoto">What is?</PrintText>
+        <PrintText id="PT0003" name="Sekai">I thought a boy's room would be messier.</PrintText>
+        <PrintText id="PT0004" name="Makoto">Well, it's probably a little cleaner than usual.</PrintText>
+        <PrintText id="PT0005" name="Sekai">You cleaned up.</PrintText>
+        <PrintText id="PT0006" name="Makoto">Just a little.</PrintText>
+        <PrintText id="PT0007" name="Sekai">I'll bet you've hidden all your porn, too.</PrintText>
+        <PrintText id="PT0008" name="Makoto">Wah! Stop it, you idiot!</PrintText>
+        <PrintText id="PT0009" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0010" name="Sekai">...This is just like back then, isn't it?</PrintText>
+        <PrintText id="PT0011" name="Makoto">Huh?</PrintText>
+        <PrintText id="PT0012" name="Sekai">On the roof, that day when we first started sitting next to each other.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Oh! Yeah...</PrintText>
+        <PrintText id="PT0014" name="Sekai">I was so happy then.</PrintText>
+        <PrintText id="PT0015" name="Makoto">That I'd pushed you over?</PrintText>
+        <PrintText id="PT0016" name="Sekai">No... that we'd be sitting next to each other.</PrintText>
+        <PrintText id="PT0017" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0018" name="Sekai">I've had my eyes on you since the entrance ceremony, you know.</PrintText>
+        <PrintText id="PT0019" name="Makoto">Seriously?</PrintText>
+        <PrintText id="PT0020" name="Sekai">But we never had much chance to speak, and I started to like you more and more as I watched you,</PrintText>
+        <PrintText id="PT0021" name="Sekai">so it became even harder for me to talk to you...</PrintText>
+        <PrintText id="PT0022" name="Makoto">Is that so?</PrintText>
+        <PrintText id="PT0023" name="Sekai">And yet, when I ended up sitting next to you, you were doing that charm with another girl's photo.</PrintText>
+        <PrintText id="PT0024" name="Sekai">Talk about a shock.</PrintText>
+        <PrintText id="PT0025" name="Makoto">That was...</PrintText>
+        <PrintText id="PT0026" name="Sekai">I know. But thanks to that, we got to become friends.</PrintText>
+        <PrintText id="PT0027" name="Sekai">I love you...</PrintText>
+        <PrintText id="PT0028" name="Makoto">I love you too...</PrintText>
+        <PrintText id="PT0029" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0030" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0031" name="Sekai">It's just that...</PrintText>
+        <PrintText id="PT0032" name="Makoto">Ah...</PrintText>
+        <PrintText id="PT0033" name="Makoto">Was that a little too hard?</PrintText>
+        <PrintText id="PT0034" name="Makoto">Did it hurt?</PrintText>
+        <PrintText id="PT0035" name="Sekai">No... I'm okay.</PrintText>
+        <PrintText id="PT0036" name="Sekai">It's just that... this is kind of embarrassing.</PrintText>
+        <PrintText id="PT0037" name="Makoto">Y-yeah...</PrintText>
+        <PrintText id="PT0038" name="Sekai">Eheheh...</PrintText>
+        <PrintText id="PT0039" name="Sekai">You can... touch me however you like.</PrintText>
+        <PrintText id="PT0040" name="Makoto">Sekai!</PrintText>
+        <PrintText id="PT0041" name="Sekai">I... it's fine..</PrintText>
+        <PrintText id="PT0042" name="Makoto">Sekai, right here...</PrintText>
+        <PrintText id="PT0043" name="Makoto">Even through your panties... I can see it so clearly...</PrintText>
+        <PrintText id="PT0044" name="Makoto">Can I... touch it...?</PrintText>
+        <PrintText id="PT0045" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0046" name="Makoto">Can I...?</PrintText>
+        <PrintText id="PT0047" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0048" name="Sekai">If you want to...</PrintText>
+        <PrintText id="PT0049" name="Makoto">Yeah!</PrintText>
+        <PrintText id="PT0050" name="Makoto">I'm going to pull it off... okay?</PrintText>
+        <PrintText id="PT0051" name="Makoto">Your...</PrintText>
+        <PrintText id="PT0052" name="Makoto">Sekai... you're wet...</PrintText>
+        <PrintText id="PT0053" name="Sekai">W-well...</PrintText>
+        <PrintText id="PT0054" name="Sekai">You're... touching me...</PrintText>
+        <PrintText id="PT0055" name="Sekai">Just by thinking about how you're touching me, I...</PrintText>
+        <PrintText id="PT0056" name="Sekai">I become like this...</PrintText>
+        <PrintText id="PT0057" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0058" name="Makoto">I'm going to take it off...</PrintText>
+        <PrintText id="PT0059" name="Sekai">Okay...</PrintText>
+        <PrintText id="PT0060" name="Sekai">Your...</PrintText>
+        <PrintText id="PT0061" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0062" name="Makoto">Your nipples... they've gotten so hard.</PrintText>
+        <PrintText id="PT0063" name="Sekai">When your lips just brush them... it feels like an electric shock...</PrintText>
+        <PrintText id="PT0064" name="Sekai">It feels so good...</PrintText>
+        <PrintText id="PT0065" name="Sekai">Makoto...</PrintText>
+        <PrintText id="PT0066" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0067" name="Sekai">No...</PrintText>
+        <PrintText id="PT0068" name="Sekai">There...!</PrintText>
+        <PrintText id="PT0069" name="Makoto">I'm going to take it all off, okay...?</PrintText>
+        <PrintText id="PT0070" name="Sekai">But...</PrintText>
+        <PrintText id="PT0071" name="Makoto">I'm going to take it off, so...</PrintText>
+        <PrintText id="PT0072" name="Sekai">Uu... ahh...</PrintText>
+        <PrintText id="PT0073" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0074" name="Makoto">Sekai, I...!</PrintText>
+        <PrintText id="PT0075" name="Makoto">Sekai... I...</PrintText>
+        <PrintText id="PT0076" name="Makoto">I love you, so...</PrintText>
+        <PrintText id="PT0077" name="Makoto">So...!</PrintText>
+        <PrintText id="PT0078" name="Sekai">I... love you too...</PrintText>
+        <PrintText id="PT0079" name="Sekai">I love you... Makoto!</PrintText>
+        <PrintText id="PT0080" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0081" name="Sekai">I'm... going to... come...</PrintText>
+        <PrintText id="PT0082" name="Sekai">I'm... I'm coming!</PrintText>
+        <PrintText id="PT0083" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0084" name="Makoto">Did you... come?</PrintText>
+        <PrintText id="PT0085" name="Sekai">Uh-huh...</PrintText>
+        <PrintText id="PT0086" name="Sekai">Eheheh... I came...</PrintText>
+        <PrintText id="PT0087" name="Makoto">Really...?</PrintText>
+        <PrintText id="PT0088" name="Sekai">How embarrassing...</PrintText>
+        <PrintText id="PT0089" name="Makoto">That's not true!</PrintText>
+        <PrintText id="PT0090" name="Sekai">Really?</PrintText>
+        <PrintText id="PT0091" name="Makoto">You were... so beautiful... and so... sexy.</PrintText>
+        <PrintText id="PT0092" name="Sekai">Oh, you...!</PrintText>
+        <PrintText id="PT0093" name="Sekai">It's okay, you know.</PrintText>
+        <PrintText id="PT0094" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0095" name="Sekai">We can do it.</PrintText>
+        <PrintText id="PT0096" name="Sekai">B-but...</PrintText>
+        <PrintText id="PT0097" name="Makoto">Y-yeah...</PrintText>
+        <PrintText id="PT0098" name="Sekai">It's... my first time, so...</PrintText>
+        <PrintText id="PT0099" name="Makoto">M... mine too...</PrintText>
+        <PrintText id="PT0100" name="Sekai">Eh?!</PrintText>
+        <PrintText id="PT0101" name="Makoto">It's... my first time too, so...</PrintText>
+        <PrintText id="PT0102" name="Sekai">I see...</PrintText>
+        <PrintText id="PT0103" name="Makoto">What?</PrintText>
+        <PrintText id="PT0104" name="Sekai">You... looked like you really wanted to do it with Katsura-san, so...</PrintText>
+        <PrintText id="PT0105" name="Sekai">I thought... you'd be experienced with stuff like this...</PrintText>
+        <PrintText id="PT0106" name="Makoto">Of course... I don't...</PrintText>
+        <PrintText id="PT0107" name="Sekai">Eheheh... that makes two of us, then.</PrintText>
+        <PrintText id="PT0108" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0109" name="Sekai">If it's the first time for both of us... it's not so scary.</PrintText>
+        <PrintText id="PT0110" name="Makoto">Really...?</PrintText>
+        <PrintText id="PT0111" name="Sekai">Uh-huh...</PrintText>
+        <PrintText id="PT0112" name="Sekai">If it's with you... it's not scary at all. Let's do it together... for the first time.</PrintText>
+        <PrintText id="PT0113" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0114" name="Makoto">I'm... going to put it in.</PrintText>
+        <PrintText id="PT0115" name="Sekai">You're going to put that... inside me... aren't you?</PrintText>
+        <PrintText id="PT0116" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0117" name="Sekai">I see...</PrintText>
+        <PrintText id="PT0118" name="Makoto">Are you getting scared after all?</PrintText>
+        <PrintText id="PT0119" name="Sekai">No... but...</PrintText>
+        <PrintText id="PT0120" name="Sekai">Ah! But... I guess... I don't know if you could call it 'scared'...</PrintText>
+        <PrintText id="PT0121" name="Sekai">I might be a little... embarrassed...</PrintText>
+        <PrintText id="PT0122" name="Makoto">I see...</PrintText>
+        <PrintText id="PT0123" name="Sekai">Hey...</PrintText>
+        <PrintText id="PT0124" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0125" name="Sekai">Will you... turn off the lights?</PrintText>
+        <PrintText id="PT0126" name="Makoto">Eh?</PrintText>
+        <PrintText id="PT0127" name="Sekai">It's embarrassing...</PrintText>
+        <PrintText id="PT0128" name="Makoto">But...</PrintText>
+        <PrintText id="PT0129" name="Sekai">Please...</PrintText>
+        <PrintText id="PT0130" name="Makoto">Okay...</PrintText>
+        <PrintText id="PT0131" name="Sekai">Uh-huh...</PrintText>
+        <PrintText id="PT0132" name="Makoto">Um...</PrintText>
+        <PrintText id="PT0133" name="Sekai">Not there...</PrintText>
+        <PrintText id="PT0134" name="Makoto">Uh-huh...</PrintText>
+        <PrintText id="PT0135" name="Makoto">It's dark...</PrintText>
+        <PrintText id="PT0136" name="Sekai">T-there...</PrintText>
+        <PrintText id="PT0137" name="Makoto">Uh-huh</PrintText>
+        <PrintText id="PT0138" name="Makoto">Does it... hurt?</PrintText>
+        <PrintText id="PT0139" name="Sekai">It's okay... you can move...</PrintText>
+        <PrintText id="PT0140" name="Makoto">Okay...</PrintText>
+        <PrintText id="PT0141" name="Makoto">Sekai! ...Are you all right?</PrintText>
+        <PrintText id="PT0142" name="Sekai">Uh-huh! It... just hurts... a little...</PrintText>
+        <PrintText id="PT0143" name="Makoto">It hurts, doesn't it...?</PrintText>
+        <PrintText id="PT0144" name="Sekai">I'm fine... hey...</PrintText>
+        <PrintText id="PT0145" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0146" name="Sekai">Will you... kiss me?</PrintText>
+        <PrintText id="PT0147" name="Makoto">Yeah...</PrintText>
+        <PrintText id="PT0148" name="Sekai">If you do... I'll be okay...</PrintText>
+        <PrintText id="PT0149" name="Sekai">Okay... you can move now...</PrintText>
+        <PrintText id="PT0150" name="Sekai">Ah...! Makoto...!</PrintText>
+        <PrintText id="PT0151" name="Sekai">Haah... ahh...</PrintText>
+        <PrintText id="PT0152" name="Sekai">Mako... Makoto...</PrintText>
+        <PrintText id="PT0153" name="Sekai">I... it hurts, but... t-this...</PrintText>
+        <PrintText id="PT0154" name="Sekai">This might... feel kind of... good!</PrintText>
+        <PrintText id="PT0155" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0156" name="Makoto">Sekai...!</PrintText>
+        <PrintText id="PT0157" name="Sekai">Good...!</PrintText>
+        <PrintText id="PT0158" name="Makoto">I... I'm going to...!</PrintText>
+        <PrintText id="PT0159" name="Sekai">Good... ah... it feels so... good!</PrintText>
+        <PrintText id="PT0160" name="Sekai">Eheheh... you spurted a lot... didn't you?</PrintText>
+        <PrintText id="PT0161" name="Makoto">Sorry...</PrintText>
+        <PrintText id="PT0162" name="Sekai">It's okay... I can feel it... so hot, inside my body... it makes me feel really happy, you know?</PrintText>
+        <PrintText id="PT0163" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0164" name="Sekai">But...</PrintText>
+        <PrintText id="PT0165" name="Makoto">Hmn?</PrintText>
+        <PrintText id="PT0166" name="Sekai">We really... had sex, didn't we?</PrintText>
+        <PrintText id="PT0167" name="Makoto">Uh-huh...</PrintText>
+        <PrintText id="PT0168" name="Sekai">Even though... you're still Katsura-san's boyfriend...</PrintText>
+        <PrintText id="PT0169" name="Makoto">What are you talking about...? You're the one that I love.</PrintText>
+        <PrintText id="PT0170" name="Sekai">But... you're still Katsura-san's boyfriend... you haven't broken up with her...</PrintText>
+        <PrintText id="PT0171" name="Makoto">Sekai...</PrintText>
+        <PrintText id="PT0172" name="Sekai">Just kidding!</PrintText>
+        <PrintText id="PT0173" name="Sekai">After all... I know that you love me!</PrintText>
+        <PrintText id="PT0174" name="Makoto">Uh-huh...</PrintText>
+        <PrintText id="PT0175" name="Sekai">That's why... it's okay!</PrintText>
+        <PrintText id="PT0176" name="Makoto">Uh-huh.</PrintText>
+        <PrintText id="PT0177" name="Sekai">Haah...</PrintText>
+        <PrintText id="PT0178" name="Makoto">Nn...</PrintText>
+        <PrintText id="PT0179" name="Sekai">Nfufu...</PrintText>
+        <PrintText id="PT0180" name="Makoto">What's wrong? Why the sudden laughter?</PrintText>
+        <PrintText id="PT0181" name="Sekai">Somehow, now that I've calmed down, it's all finally starting to feel real.</PrintText>
+        <PrintText id="PT0182" name="Makoto">I see.</PrintText>
+        <PrintText id="PT0183" name="Sekai">I did it with Makoto... my first time, with the person that I love. That's incredible, isn't it?</PrintText>
+        <PrintText id="PT0184" name="Makoto">Really?</PrintText>
+        <PrintText id="PT0185" name="Sekai">I was so happy... so happy that the happiness just completely filled my chest... and I thought, 'Ahh... so this is what it means to be happy.'</PrintText>
+        <PrintText id="PT0186" name="Makoto">I feel happy too.</PrintText>
+        <PrintText id="PT0187" name="Sekai">That makes two of us, right?</PrintText>
+        <PrintText id="PT0188" name="Makoto">Yeah.</PrintText>
+        <PrintText id="PT0189" name="Sekai">Eheheh... Makoto.</PrintText>
+        <PrintText id="PT0190" name="Makoto">Sekai.</PrintText>
+        <PrintText id="PT0191" name="Sekai">I love you.</PrintText>
+    </File>
+    <File name="02-2S-X00.ENG.ORS">
+        <PrintText id="PT0001" name="Makoto">Fwaah...</PrintText>
+        <PrintText id="PT0002" name="Sekai">There you go, yawning again. You were the one who suggested we leave at this hour.</PrintText>
+        <PrintText id="PT0003" name="Makoto">Nnn... yeah, but I can't help being sleepy.</PrintText>
+        <PrintText id="PT0004" name="Sekai">You've never been to school this early, have you?</PrintText>
+        <PrintText id="PT0005" name="Makoto">Pretty much.</PrintText>
+        <PrintText id="PT0006" name="Sekai">I guess this is what they call 'the trip home on the morning after', huh.</PrintText>
+        <PrintText id="PT0007" name="Makoto">Yeah, but we're headed for school instead.</PrintText>
+        <PrintText id="PT0008" name="Sekai">That's true.</PrintText>
+        <PrintText id="PT0009" name="Makoto">Maybe we should say something to Kioura, too.</PrintText>
+        <PrintText id="PT0010" name="Sekai">Wah! N-no! Don't worry, I'll tell her myself.</PrintText>
+        <PrintText id="PT0011" name="Makoto">You will?</PrintText>
+        <PrintText id="PT0012" name="Sekai">We wouldn't want her to misunderstand.</PrintText>
+        <PrintText id="PT0013" name="Makoto">Misunderstand?</PrintText>
+        <PrintText id="PT0014" name="Sekai">She already suspects that we're going out.</PrintText>
+        <PrintText id="PT0015" name="Makoto">That's a misunderstanding?</PrintText>
+        <PrintText id="PT0016" name="Sekai">...Not anymore, I guess.</PrintText>
+        <PrintText id="PT0017" name="Makoto">It's not, is it?</PrintText>
+        <PrintText id="PT0018" name="Sekai">...</PrintText>
+        <PrintText id="PT0019" name="Makoto">...Sekai?</PrintText>
+        <PrintText id="PT0020" name="Sekai">We'll be in trouble if we don't treat it as one.</PrintText>
+        <PrintText id="PT0021" name="Makoto">Why?</PrintText>
+        <PrintText id="PT0022" name="Sekai">If we don't, Katsura-san is going to...</PrintText>
+        <PrintText id="PT0023" name="Makoto">...</PrintText>
+    </File>
+    <File name="02-2S-Y00.ENG.ORS">
+        <PrintText id="PT0001" name="Kotonoha">Haah...!</PrintText>
+        <PrintText id="PT0002" name="Kotonoha">Makoto-kun... Makoto-kun...!</PrintText>
+    </File>
+</ORSData>
