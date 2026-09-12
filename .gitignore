@@ -1,0 +1,38 @@
+# Arquivos proprietários / entradas locais
+ORIGINAL/Script/
+ORIGINAL/*.GPK
+ORIGINAL/*.gpk
+
+# XML inglês gerado localmente
+XML/ORIGINAL_EN/*.xml
+
+# Saídas geradas
+BUILD/*
+!BUILD/README.md
+OUTPUT/*
+!OUTPUT/README.md
+
+# Assets locais auxiliares do System
+SYSTEM/*
+!SYSTEM/README.md
+
+# Arquivos de jogo e pacotes grandes
+*.GPK
+*.gpk
+*.rar
+*.zip
+*.7z
+
+# Temporários da pipeline
+*_tmp/
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
