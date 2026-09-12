@@ -1,0 +1,18 @@
+SchoolDaysHQ-PTBR
+
+This repository contains modifications and adaptations for a Brazilian Portuguese
+translation workflow for School Days HQ.
+
+Portions of the tooling are based on or derived from:
+
+  School-Days-Translation-Tools
+  Copyright (c) 21-ko
+  https://github.com/21-ko/School-Days-Translation-Tools
+
+The upstream project is licensed under the Apache License, Version 2.0.
+Modified files in this repository include changes for PT-BR conversion,
+validation, rebuilding, repacking and debugging workflows.
+
+School Days HQ and its original game assets are not covered by this license.
+All rights to the game and its original content belong to their respective
+rights holders.
