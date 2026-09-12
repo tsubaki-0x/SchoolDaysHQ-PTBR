@@ -1,4 +1,4 @@
-<img width="1747" height="900" alt="VAMOOO" src="https://github.com/user-attachments/assets/df3db5bf-8c02-4a0a-b9e6-b5071da154b2" />
+<img width="1672" height="941" alt="ChatGPT Image 11 de set  de 2026, 05_04_12" src="https://github.com/user-attachments/assets/ae443712-0b3d-4735-9954-50c8bdd6d4d9" />
 
 
 
